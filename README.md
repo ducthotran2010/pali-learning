@@ -13,24 +13,24 @@
 | 6 | najjā, nadiyā | nadīnaṃ |
 | 7 | najjaṃ, nadiyaṃ, nadiyā  | nadīsu |
 
-Nārī \= woman  
-Taruṇī \= young woman  
-Rājñī \= queen  
-Itthī \= woman  
-Sakhī \= woman-friend  
-Brāhmaṇī \= Brahman woman  
-Bhaginī \= sister  
-Dāsī \= slave woman  
-Devī \= queen ; goddess  
-Sakunī \= bird (female)  
-Migī \= deer (female)  
-Sīhī \= lioness  
-Kukkuṭī \= hen  
-Kākī \= she crow  
-Nadī \= river  
-Vāpī \= tank  
-Pokkharaṇī \= pond  
-Kadalī \= plantain  
-Gāvī \= cow  
-Mahī \= earth ; the river of that name  
-Hatthinī \= she-elephant  
+Nārī = woman  
+Taruṇī = young woman  
+Rājñī = queen  
+Itthī = woman  
+Sakhī = woman-friend  
+Brāhmaṇī = Brahman woman  
+Bhaginī = sister  
+Dāsī = slave woman  
+Devī = queen ; goddess  
+Sakunī = bird (female)  
+Migī = deer (female)  
+Sīhī = lioness  
+Kukkuṭī = hen  
+Kākī = she crow  
+Nadī = river  
+Vāpī = tank  
+Pokkharaṇī = pond  
+Kadalī = plantain  
+Gāvī = cow  
+Mahī = earth ; the river of that name  
+Hatthinī = she-elephant  

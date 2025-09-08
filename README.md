@@ -1,17 +1,23 @@
+<style>
+r { color: Red }
+o { color: Orange }
+g { color: Green }
+</style>
+
 # Các từ vựng đã học
 
 # Danh từ nữ tính có từ vĩ là ī
 
 | Cách | Si | Sn |
 | ----- | ----- | ----- |
-| 1 | nadī | nadī, nadiyo, najjo |
-| 8 | nadi | nadī, nadiyo, najjo |
-| 2 | nadiyaṃ, nadiṃ | nadī, nadiyo, najjo |
-| 3 | najjā, nadiyā | nadīhi, nadībhi |
-| 5 | najjā, nadiyā | nadīhi, nadībhi |
-| 4 | najjā, nadiyā | nadīnaṃ |
-| 6 | najjā, nadiyā | nadīnaṃ |
-| 7 | najjaṃ, nadiyaṃ, nadiyā  | nadīsu |
+| 1 | nad<r>ī</r> | nad<r>ī</r>, nadi<r>yo</r>, najj<r>o</r> |
+| 8 | nad<r>i</r> | nad<r>ī</r>, nadi<r>yo</r>, najj<r>o</r> |
+| 2 | nadi<r>yaṃ</r>, nadi<r>ṃ</r> | nad<r>ī</r>, nadi<r>yo</r>, najj<r>o</r> |
+| 3 | najj<r>ā</r>, nadiy<r>ā</r> | nad<r>īhi</r>, nad<r>ībhi</r> |
+| 5 | najj<r>ā</r>, nadiy<r>ā</r> | nad<r>īhi</r>, nad<r>ībhi</r> |
+| 4 | najj<r>ā</r>, nadiy<r>ā</r> | nad<r>īnaṃ</r> |
+| 6 | najj<r>ā</r>, nadiy<r>ā</r> | nad<r>īnaṃ</r> |
+| 7 | najj<r>aṃ</r>, nadiya<r>ṃ</r>, nadiy<r>ā</r> | nad<r>īsu</r> |
 
 Nārī = woman  
 Taruṇī = young woman  

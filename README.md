@@ -5,7 +5,7 @@ $${\color{red}ī}$$
 
 | Cách | Si | Sn |
 | ----- | ----- | ----- |
-| 1 | nad $${\color{red}ī}$$ | nad$${\color{red}ī}$$, nadi$${\color{red}yo}$$, najj$${\color{red}o}$$ |
+| 1 | $${nad\color{red}ī}$$ | nad$${\color{red}ī}$$, nadi$${\color{red}yo}$$, najj$${\color{red}o}$$ |
 | 8 | nad$${\color{red}i}$$ | nad$${\color{red}ī}$$, nadi$${\color{red}yo}$$, najj$${\color{red}o}$$ |
 | 2 | nadi$${\color{red}yaṃ}$$, nadi$${\color{red}ṃ}$$ | nad$${\color{red}ī}$$, nadi$${\color{red}yo}$$, najj$${\color{red}o}$$ |
 | 3 | najj$${\color{red}ā}$$, nadiy$${\color{red}ā}$$ | nad$${\color{red}īhi}$$, nad$${\color{red}ībhi}$$ |

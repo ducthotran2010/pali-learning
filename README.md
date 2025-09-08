@@ -14,24 +14,28 @@
 | 7 | $${najj\color{red}aṃ}$$, $${nadiya\color{red}ṃ}$$, $${nadiy\color{red}ā}$$ | $${nad\color{red}īsu}$$ |
 
 
-Nārī = woman  
-Taruṇī = young woman  
-Rājñī = queen  
-Itthī = woman  
-Sakhī = woman-friend  
-Brāhmaṇī = Brahman woman  
-Bhaginī = sister  
-Dāsī = slave woman  
-Devī = queen ; goddess  
-Sakunī = bird (female)  
-Migī = deer (female)  
-Sīhī = lioness  
-Kukkuṭī = hen  
-Kākī = she crow  
-Nadī = river  
-Vāpī = tank  
-Pokkharaṇī = pond  
-Kadalī = plantain  
-Gāvī = cow  
-Mahī = earth ; the river of that name  
-Hatthinī = she-elephant  
+<div style="column-count:2;">
+
+- Nārī = woman
+- Taruṇī = young woman  
+- Rājñī = queen  
+- Itthī = woman  
+- Sakhī = woman-friend  
+- Brāhmaṇī = Brahman woman  
+- Bhaginī = sister  
+- Dāsī = slave woman  
+- Devī = queen ; goddess  
+- Sakunī = bird (female)  
+- Migī = deer (female)  
+- Sīhī = lioness  
+- Kukkuṭī = hen  
+- Kākī = she crow  
+- Nadī = river  
+- Vāpī = tank  
+- Pokkharaṇī = pond  
+- Kadalī = plantain  
+- Gāvī = cow  
+- Mahī = earth ; the river of that name  
+- Hatthinī = she-elephant  
+
+</div>

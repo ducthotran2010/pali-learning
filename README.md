@@ -1,6 +1,7 @@
 # Các từ vựng đã học
 
 ## Danh từ nữ tính có từ vĩ là ī
+$${\color{red}Red}$$	
 
 | Cách | Si | Sn |
 | ----- | ----- | ----- |

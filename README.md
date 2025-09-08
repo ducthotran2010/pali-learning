@@ -3,6 +3,7 @@
 ## Danh từ nữ tính có từ vĩ là ī
 
 # Danh từ nữ tính có từ vĩ là ī
+- ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) `#f03c15`
 
 | Cách | Si | Sn |
 | ----- | ----- | ----- |

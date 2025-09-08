@@ -1,4 +1,4 @@
-# Các từ vựng đã học
+# Các danh từ đã học
 
 ## Danh từ nữ tính có từ vĩ là ī
 

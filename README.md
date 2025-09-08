@@ -2,19 +2,16 @@
 
 ## Danh từ nữ tính có từ vĩ là ī
 
-# Danh từ nữ tính có từ vĩ là ī
-- ![#f03c15](https://placehold.it/150/ffffff/ff0000?text=hello) `#f03c15`
-
 | Cách | Si | Sn |
 | ----- | ----- | ----- |
-| 1 | nad<span style="color:red">ī</span> | nad<span style="color:red">ī</span>, nadi<span style="color:red">yo</span>, najj<span style="color:red">o</span> |
-| 8 | nad<span style="color:red">i</span> | nad<span style="color:red">ī</span>, nadi<span style="color:red">yo</span>, najj<span style="color:red">o</span> |
-| 2 | nadi<span style="color:red">yaṃ</span>, nadi<span style="color:red">ṃ</span> | nad<span style="color:red">ī</span>, nadi<span style="color:red">yo</span>, najj<span style="color:red">o</span> |
-| 3 | najj<span style="color:red">ā</span>, nadi<span style="color:red">yā</span> | nadī<span style="color:red">hi</span>, nadī<span style="color:red">bhi</span> |
-| 5 | najj<span style="color:red">ā</span>, nadi<span style="color:red">yā</span> | nadī<span style="color:red">hi</span>, nadī<span style="color:red">bhi</span> |
-| 4 | najj<span style="color:red">ā</span>, nadi<span style="color:red">yā</span> | nadī<span style="color:red">naṃ</span> |
-| 6 | najj<span style="color:red">ā</span>, nadi<span style="color:red">yā</span> | nadī<span style="color:red">naṃ</span> |
-| 7 | najj<span style="color:red">aṃ</span>, nadi<span style="color:red">yaṃ</span>, nadi<span style="color:red">yā</span> | nadī<span style="color:red">su</span> |
+| 1 | $${nad\color{red}ī}$$ | $${nad\color{red}ī}$$, $${nadi\color{red}yo}$$, $${najj\color{red}o}$$ |
+| 8 | $${nad\color{red}i}$$ | $${nad\color{red}ī}$$, $${nadi\color{red}yo}$$, $${najj\color{red}o}$$ |
+| 2 | $${nadi\color{red}yaṃ}$$, $${nadi\color{red}ṃ}$$ | $${nad\color{red}ī}$$, $${nadi\color{red}yo}$$, $${najj\color{red}o}$$ |
+| 3 | $${najj\color{red}ā}$$, $${nadiy\color{red}ā}$$ | $${nad\color{red}īhi}$$, $${nad\color{red}ībhi}$$ |
+| 5 | $${najj\color{red}ā}$$, $${nadiy\color{red}ā}$$ | $${nad\color{red}īhi}$$, $${nad\color{red}ībhi}$$ |
+| 4 | $${najj\color{red}ā}$$, $${nadiy\color{red}ā}$$ | $${nad\color{red}īnaṃ}$$ |
+| 6 | $${najj\color{red}ā}$$, $${nadiy\color{red}ā}$$ | $${nad\color{red}īnaṃ}$$ |
+| 7 | $${najj\color{red}aṃ}$$, $${nadiya\color{red}ṃ}$$, $${nadiy\color{red}ā}$$ | $${nad\color{red}īsu}$$ |
 
 
 Nārī = woman  

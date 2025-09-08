@@ -1,23 +1,18 @@
-<style>
-r { color: Red }
-o { color: Orange }
-g { color: Green }
-</style>
-
 # Các từ vựng đã học
 
-# Danh từ nữ tính có từ vĩ là ī
+## Danh từ nữ tính có từ vĩ là ī
 
 | Cách | Si | Sn |
 | ----- | ----- | ----- |
-| 1 | nad<r>ī</r> | nad<r>ī</r>, nadi<r>yo</r>, najj<r>o</r> |
-| 8 | nad<r>i</r> | nad<r>ī</r>, nadi<r>yo</r>, najj<r>o</r> |
-| 2 | nadi<r>yaṃ</r>, nadi<r>ṃ</r> | nad<r>ī</r>, nadi<r>yo</r>, najj<r>o</r> |
-| 3 | najj<r>ā</r>, nadiy<r>ā</r> | nad<r>īhi</r>, nad<r>ībhi</r> |
-| 5 | najj<r>ā</r>, nadiy<r>ā</r> | nad<r>īhi</r>, nad<r>ībhi</r> |
-| 4 | najj<r>ā</r>, nadiy<r>ā</r> | nad<r>īnaṃ</r> |
-| 6 | najj<r>ā</r>, nadiy<r>ā</r> | nad<r>īnaṃ</r> |
-| 7 | najj<r>aṃ</r>, nadiya<r>ṃ</r>, nadiy<r>ā</r> | nad<r>īsu</r> |
+| 1 | nad$${\color{red}ī}$$ | nad$${\color{red}ī}$$, nadi$${\color{red}yo}$$, najj$${\color{red}o}$$ |
+| 8 | nad$${\color{red}i}$$ | nad$${\color{red}ī}$$, nadi$${\color{red}yo}$$, najj$${\color{red}o}$$ |
+| 2 | nadi$${\color{red}yaṃ}$$, nadi$${\color{red}ṃ}$$ | nad$${\color{red}ī}$$, nadi$${\color{red}yo}$$, najj$${\color{red}o}$$ |
+| 3 | najj$${\color{red}ā}$$, nadiy$${\color{red}ā}$$ | nad$${\color{red}īhi}$$, nad$${\color{red}ībhi}$$ |
+| 5 | najj$${\color{red}ā}$$, nadiy$${\color{red}ā}$$ | nad$${\color{red}īhi}$$, nad$${\color{red}ībhi}$$ |
+| 4 | najj$${\color{red}ā}$$, nadiy$${\color{red}ā}$$ | nad$${\color{red}īnaṃ}$$ |
+| 6 | najj$${\color{red}ā}$$, nadiy$${\color{red}ā}$$ | nad$${\color{red}īnaṃ}$$ |
+| 7 | najj$${\color{red}aṃ}$$, nadiya$${\color{red}ṃ}$$, nadiy$${\color{red}ā}$$ | nad$${\color{red}īsu}$$ |
+
 
 Nārī = woman  
 Taruṇī = young woman  

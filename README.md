@@ -1,6 +1,6 @@
-# Pali Language Learning
+# Language Learning
 
-This repository contains Pali grammar references and vocabulary tables to support language learning.
+This repository contains grammar references and vocabulary tables to support language learning across multiple languages.
 
 ## Content Organization
 
@@ -9,7 +9,7 @@ This repository contains Pali grammar references and vocabulary tables to suppor
 
 ## Current Focus
 
-The repository currently focuses on Pali feminine nouns ending in "+" (+-stems), including:
+The repository currently focuses on Pali language content, specifically feminine nouns ending in "ī" (ī-stems), including:
 
 - Complete declension tables showing all grammatical cases
 - Comprehensive vocabulary lists with English translations

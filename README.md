@@ -2,40 +2,80 @@
 
 ## Danh từ nữ tính có từ vĩ là ī
 
-| Cách | Si | Sn |
-| ----- | ----- | ----- |
-| 1 | $${nad\color{red}ī}$$ | $${nad\color{red}ī}$$, $${nadi\color{red}yo}$$, $${najj\color{red}o}$$ |
-| 8 | $${nad\color{red}i}$$ | $${nad\color{red}ī}$$, $${nadi\color{red}yo}$$, $${najj\color{red}o}$$ |
-| 2 | $${nadi\color{red}yaṃ}$$, $${nadi\color{red}ṃ}$$ | $${nad\color{red}ī}$$, $${nadi\color{red}yo}$$, $${najj\color{red}o}$$ |
-| 3 | $${najj\color{red}ā}$$, $${nadiy\color{red}ā}$$ | $${nad\color{red}īhi}$$, $${nad\color{red}ībhi}$$ |
-| 5 | $${najj\color{red}ā}$$, $${nadiy\color{red}ā}$$ | $${nad\color{red}īhi}$$, $${nad\color{red}ībhi}$$ |
-| 4 | $${najj\color{red}ā}$$, $${nadiy\color{red}ā}$$ | $${nad\color{red}īnaṃ}$$ |
-| 6 | $${najj\color{red}ā}$$, $${nadiy\color{red}ā}$$ | $${nad\color{red}īnaṃ}$$ |
-| 7 | $${najj\color{red}aṃ}$$, $${nadiya\color{red}ṃ}$$, $${nadiy\color{red}ā}$$ | $${nad\color{red}īsu}$$ |
-
+<table border="1" cellspacing="0" cellpadding="6">
+  <thead>
+    <tr>
+      <th>Cách</th>
+      <th>Si</th>
+      <th>Sn</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>$${nad\color{red}ī}$$</td>
+      <td>$${nad\color{red}ī}$$, $${nadi\color{red}yo}$$, $${najj\color{red}o}$$</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>$${nad\color{red}i}$$</td>
+      <td>$${nad\color{red}ī}$$, $${nadi\color{red}yo}$$, $${najj\color{red}o}$$</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>$${nadi\color{red}yaṃ}$$, $${nadi\color{red}ṃ}$$</td>
+      <td>$${nad\color{red}ī}$$, $${nadi\color{red}yo}$$, $${najj\color{red}o}$$</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>$${najj\color{red}ā}$$, $${nadiy\color{red}ā}$$</td>
+      <td>$${nad\color{red}īhi}$$, $${nad\color{red}ībhi}$$</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>$${najj\color{red}ā}$$, $${nadiy\color{red}ā}$$</td>
+      <td>$${nad\color{red}īhi}$$, $${nad\color{red}ībhi}$$</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>$${najj\color{red}ā}$$, $${nadiy\color{red}ā}$$</td>
+      <td>$${nad\color{red}īnaṃ}$$</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>$${najj\color{red}ā}$$, $${nadiy\color{red}ā}$$</td>
+      <td>$${nad\color{red}īnaṃ}$$</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>$${najj\color{red}aṃ}$$, $${nadiya\color{red}ṃ}$$, $${nadiy\color{red}ā}$$</td>
+      <td>$${nad\color{red}īsu}$$</td>
+    </tr>
+  </tbody>
+</table>
 
 <div style="column-count:2;">
 
 - Nārī = woman
-- Taruṇī = young woman  
-- Rājñī = queen  
-- Itthī = woman  
-- Sakhī = woman-friend  
-- Brāhmaṇī = Brahman woman  
-- Bhaginī = sister  
-- Dāsī = slave woman  
-- Devī = queen ; goddess  
-- Sakunī = bird (female)  
-- Migī = deer (female)  
-- Sīhī = lioness  
-- Kukkuṭī = hen  
-- Kākī = she crow  
-- Nadī = river  
-- Vāpī = tank  
-- Pokkharaṇī = pond  
-- Kadalī = plantain  
-- Gāvī = cow  
-- Mahī = earth ; the river of that name  
-- Hatthinī = she-elephant  
+- Taruṇī = young woman
+- Rājñī = queen
+- Itthī = woman
+- Sakhī = woman-friend
+- Brāhmaṇī = Brahman woman
+- Bhaginī = sister
+- Dāsī = slave woman
+- Devī = queen ; goddess
+- Sakunī = bird (female)
+- Migī = deer (female)
+- Sīhī = lioness
+- Kukkuṭī = hen
+- Kākī = she crow
+- Nadī = river
+- Vāpī = tank
+- Pokkharaṇī = pond
+- Kadalī = plantain
+- Gāvī = cow
+- Mahī = earth ; the river of that name
+- Hatthinī = she-elephant
 
 </div>

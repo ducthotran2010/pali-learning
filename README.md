@@ -2,57 +2,16 @@
 
 ## Danh từ nữ tính có từ vĩ là ī
 
-<table border="1" cellspacing="0" cellpadding="6">
-  <thead>
-    <tr>
-      <th>Cách</th>
-      <th>Si</th>
-      <th>Sn</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>1</td>
-      <td>$${nad\color{red}ī}$$</td>
-      <td>$${nad\color{red}ī}$$, $${nadi\color{red}yo}$$, $${najj\color{red}o}$$</td>
-    </tr>
-    <tr>
-      <td>8</td>
-      <td>$${nad\color{red}i}$$</td>
-      <td>$${nad\color{red}ī}$$, $${nadi\color{red}yo}$$, $${najj\color{red}o}$$</td>
-    </tr>
-    <tr>
-      <td>2</td>
-      <td>$${nadi\color{red}yaṃ}$$, $${nadi\color{red}ṃ}$$</td>
-      <td>$${nad\color{red}ī}$$, $${nadi\color{red}yo}$$, $${najj\color{red}o}$$</td>
-    </tr>
-    <tr>
-      <td>3</td>
-      <td>$${najj\color{red}ā}$$, $${nadiy\color{red}ā}$$</td>
-      <td>$${nad\color{red}īhi}$$, $${nad\color{red}ībhi}$$</td>
-    </tr>
-    <tr>
-      <td>5</td>
-      <td>$${najj\color{red}ā}$$, $${nadiy\color{red}ā}$$</td>
-      <td>$${nad\color{red}īhi}$$, $${nad\color{red}ībhi}$$</td>
-    </tr>
-    <tr>
-      <td>4</td>
-      <td>$${najj\color{red}ā}$$, $${nadiy\color{red}ā}$$</td>
-      <td>$${nad\color{red}īnaṃ}$$</td>
-    </tr>
-    <tr>
-      <td>6</td>
-      <td>$${najj\color{red}ā}$$, $${nadiy\color{red}ā}$$</td>
-      <td>$${nad\color{red}īnaṃ}$$</td>
-    </tr>
-    <tr>
-      <td>7</td>
-      <td>$${najj\color{red}aṃ}$$, $${nadiya\color{red}ṃ}$$, $${nadiy\color{red}ā}$$</td>
-      <td>$${nad\color{red}īsu}$$</td>
-    </tr>
-  </tbody>
-</table>
+| Cách | Si                                                                    | Sn                                                                |
+| ---- | --------------------------------------------------------------------- | ----------------------------------------------------------------- |
+| 1    | ${nad\color{red}ī}$                                                   | ${nad\color{red}ī}$, ${nad\color{red}iyo}$, ${na\color{blue}jjo}$ |
+| 8    | ${nad\color{red}i}$                                                   | ${nad\color{red}ī}$, ${nad\color{red}iyo}$, ${na\color{blue}jjo}$ |
+| 2    | ${nad\color{red}iyaṃ}$, ${nad\color{red}iṃ}$                          | ${nad\color{red}ī}$, ${nad\color{red}iyo}$, ${na\color{blue}jjo}$ |
+| 3    | ${nad\color{red}iyā}$, ${na\color{blue}jjā}$                          | ${nad\color{red}{ī(b)hi}}$                                        |
+| 5    | ${nad\color{red}iyā}$, ${na\color{blue}jjā}$                          | ${nad\color{red}{ī(b)hi}}$                                        |
+| 4    | ${nad\color{red}iyā}$, ${na\color{blue}jjā}$                          | ${nad\color{red}īnaṃ}$                                            |
+| 6    | ${nad\color{red}iyā}$, ${na\color{blue}jjā}$                          | ${nad\color{red}īnaṃ}$                                            |
+| 7    | ${nad\color{red}iyā}$, ${nad\color{red}iyaṃ}$, ${na\color{blue}jjaṃ}$ | ${nad\color{red}īsu}$                                             |
 
 <div style="column-count:2;">
 

@@ -2,6 +2,8 @@
 
 ## Danh từ nữ tính có từ vĩ là ī
 
+### Các biến cách
+
 | Cách | Si                                                                    | Sn                                                                |
 | ---- | --------------------------------------------------------------------- | ----------------------------------------------------------------- |
 | 1    | ${nad\color{red}ī}$                                                   | ${nad\color{red}ī}$, ${nad\color{red}iyo}$, ${na\color{blue}jjo}$ |
@@ -12,6 +14,8 @@
 | 4    | ${nad\color{red}iyā}$, ${na\color{blue}jjā}$                          | ${nad\color{red}īnaṃ}$                                            |
 | 6    | ${nad\color{red}iyā}$, ${na\color{blue}jjā}$                          | ${nad\color{red}īnaṃ}$                                            |
 | 7    | ${nad\color{red}iyā}$, ${nad\color{red}iyaṃ}$, ${na\color{blue}jjaṃ}$ | ${nad\color{red}īsu}$                                             |
+
+### Từ vựng
 
 <div style="column-count:2;">
 

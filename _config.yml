@@ -1,0 +1,56 @@
+# Site settings
+title: Language Learning
+description: Grammar references and vocabulary tables for multiple languages
+baseurl: ""
+url: "https://ducthotran2010.github.io"
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+theme: minima
+
+# Kramdown settings for LaTeX support
+kramdown:
+  math_engine: mathjax
+  input: GFM
+  hard_wrap: false
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+# Navigation
+header_pages:
+  - pali/README.md
+  - english/README.md
+
+# Collections (optional, for better organization)
+collections:
+  languages:
+    output: true
+    permalink: /:collection/:name/
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+
+# Exclude files from processing
+exclude:
+  - CLAUDE.md
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - .bundle
+  - .sass-cache
+  - _site

@@ -14,6 +14,8 @@
 | 4&6  | ${agg\color{red}ino}$, ${agg\color{red}issa}$                         | ${agg\color{red}īnaṃ}$, ${agg\color{red}inaṃ}$         |
 | 7    | ${agg\color{red}imhi}$, ${agg\color{red}ismiṃ}$                       | ${agg\color{red}īsu}$, ${agg\color{red}isu}$           |
 
+> Lưu ý: Biến cách 1, Si: Aggini chỉ xuất hiện ở từ Aggi.
+
 ## Danh từ nam tính từ vĩ 'ī'
 
 ### Các biến cách: Daṇḍī (người cầm gậy)

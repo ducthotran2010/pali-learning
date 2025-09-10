@@ -58,7 +58,7 @@
 | 4&6  | ${pi\color{red}tu}$, ${pi\color{red}tuno}$, ${pi\color{red}tussa}$ | ${pi\color{red}tarānaṃ}$, ${pi\color{red}tānaṃ}$, ${pi\color{red}tūnaṃ}$, ${pi\color{red}tunaṃ}$ |
 | 7    | ${pi\color{red}tari}$                                              | ${pi\color{red}taresu}$, ${pi\color{red}tūsu}$, ${pi\color{red}tusu}$                            |
 
-### Các biến cách bất quy tắc: Kattu (người làm)
+### Các biến cách bất quy tắc: Kattu/Kattār (người làm)
 
 | Cách | Si                                                                    | Sn                                                                                                   |
 | ---- | --------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |

@@ -1,0 +1,81 @@
+/* Language Learning Site Styles */
+
+.language-content {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 2rem 1rem;
+}
+
+.language-header {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.language-description {
+  font-size: 1.1em;
+  color: #666;
+  font-style: italic;
+}
+
+/* Grammar tables */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1.5rem 0;
+}
+
+th, td {
+  padding: 0.75rem;
+  text-align: left;
+  border: 1px solid #ddd;
+}
+
+th {
+  background-color: #f8f9fa;
+  font-weight: bold;
+}
+
+tr:nth-child(even) {
+  background-color: #f9f9f9;
+}
+
+/* Math content */
+.MathJax {
+  font-size: 1.1em !important;
+}
+
+/* Grammar notes */
+blockquote {
+  border-left: 4px solid #007acc;
+  padding-left: 1rem;
+  margin: 1rem 0;
+  font-style: italic;
+  background-color: #f8f9ff;
+  padding: 0.5rem 1rem;
+}
+
+/* Section navigation */
+.language-nav {
+  background-color: #f8f9fa;
+  padding: 1rem;
+  border-radius: 4px;
+  margin-top: 2rem;
+}
+
+.language-nav ul {
+  list-style: none;
+  padding: 0;
+}
+
+.language-nav li {
+  margin: 0.5rem 0;
+}
+
+.language-nav a {
+  text-decoration: none;
+  color: #007acc;
+}
+
+.language-nav a:hover {
+  text-decoration: underline;
+}

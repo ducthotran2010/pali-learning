@@ -1,0 +1,1 @@
+**daṇḍī** = person holding a staff

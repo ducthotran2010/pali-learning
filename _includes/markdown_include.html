@@ -1,0 +1,8 @@
+{% assign include_path = include.file %}
+{% assign content = site.static_files | where: "path", include_path | first %}
+{% if content %}
+  {% capture included_content %}{% include_relative {{ include_path }} %}{% endcapture %}
+  {{ included_content | markdownify }}
+{% else %}
+  <p><em>Content not found: {{ include_path }}</em></p>
+{% endif %}

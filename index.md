@@ -3,20 +3,18 @@ layout: home
 title: Language Learning
 ---
 
-# Language Learning
-
 Welcome to our multilingual grammar reference and vocabulary collection. This site contains comprehensive learning materials for multiple languages with detailed grammatical explanations and structured vocabulary tables.
 
 ## Available Languages
 
-### [Pali](./pali/)
+### [Pali](/pali/)
 Complete Pali grammar reference with Vietnamese explanations, featuring:
 - Detailed declension tables for masculine and feminine nouns
 - Color-coded grammatical forms using mathematical notation
 - Comprehensive vocabulary lists with English translations
 - Focus on various stem endings (ī-stems, consonant stems, etc.)
 
-### [English](./english/)
+### [English](/english/)
 English language learning materials (in development)
 
 ## Features

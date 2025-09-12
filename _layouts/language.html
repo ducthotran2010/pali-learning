@@ -6,19 +6,16 @@ layout: default
 
 <div class="language-content">
   <header class="language-header">
-    <h1>{{ page.title }}</h1>
+    {% if page.title %}
+      <h1>{{ page.title }}</h1>
+    {% endif %}
     {% if page.description %}
       <p class="language-description">{{ page.description }}</p>
     {% endif %}
   </header>
 
-  <main class="language-main">
-    {{ content }}
-  </main>
-
   {% if page.sections %}
     <nav class="language-nav">
-      <h3>Sections</h3>
       <ul>
         {% for section in page.sections %}
           <li><a href="#{{ section.anchor }}">{{ section.title }}</a></li>
@@ -26,4 +23,8 @@ layout: default
       </ul>
     </nav>
   {% endif %}
+
+  <main class="language-main">
+    {{ content }}
+  </main>
 </div>

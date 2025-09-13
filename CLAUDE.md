@@ -4,13 +4,14 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Repository Purpose
 
-This is a language learning repository containing grammar references and vocabulary tables for multiple languages. The content focuses on Pāḷi grammar declensions (masculine and feminine nouns with various endings), with Vietnamese translations and explanations.
+This is a Pāḷi language learning repository focused exclusively on Pāḷi grammar declensions (masculine and feminine nouns with various endings), with Vietnamese explanations and English translations.
 
 ## Structure
 
-- `pali/README.md` - Pāḷi grammar content in Vietnamese with declension tables and vocabulary
-- `english/README.md` - English language content (currently empty)
-- Repository is organized by language directories for multilingual support
+- `_languages/pali/` - Main Pāḷi grammar pages organized by declension patterns
+- `_includes/pali/` - Reusable components for declension tables and vocabulary
+- Repository is organized around individual declension patterns as separate sections
+- Each section follows the pattern: Section Page → Declension Table → Vocabulary
 
 ## Content Format
 
@@ -18,14 +19,31 @@ This is a language learning repository containing grammar references and vocabul
   - Red text highlights grammatical endings and variations
   - Blue text indicates alternative forms
 - Tables show grammatical cases (cách) with singular (Si) and plural (Sn) forms
-- Vocabulary sections use structured lists with Pāḷi terms and English definitions
+- Vocabulary sections use structured lists with Vietnamese-first format: `<li><strong>word</strong> = vietnamese (english); vietnamese2 (english2)</li>`
+- All vocabulary wrapped in `<div style="column-count:2;">` for 2-column layout
+- Section titles use Vietnamese with English explanations: "Danh từ nam tính (Masculine Nouns)"
 
 ## Working with This Repository
 
 - Content is primarily in markdown format with embedded LaTeX
 - Changes typically involve updating grammar tables or adding vocabulary
-- Recent commits show focus on formatting consistency
-- No build process required - this is a documentation-only repository
+- Each declension pattern should be treated as a separate section (not combined)
+- Irregular patterns should be separated by type (e.g., Pitu/pitar vs Kattu/kattār)
+- Jekyll-based site with MathJax support for LaTeX rendering
+- Vietnamese is the primary language with English explanations in parentheses
+
+## Section Organization Pattern
+
+Each declension type should follow this structure:
+1. **Main page**: `_languages/pali/[pattern-name].md`
+2. **Includes directory**: `_includes/pali/[pattern-name]/`
+3. **Declension table**: `declension.md`
+4. **Vocabulary**: `vocab.md`
+
+Example: Regular 'u' endings and irregular patterns are separate sections:
+- `masculine-nouns-u` (regular)
+- `masculine-nouns-u-irregular-pitu` (Pitu/pitar pattern)
+- `masculine-nouns-u-irregular-kattu` (Kattu/kattār pattern)
 
 ## Guidelines for Declension Tables
 
@@ -49,3 +67,53 @@ When creating or updating Pāḷi declension tables:
 - Check that all forms match exactly
 - Ensure no extra forms are added beyond what's shown
 - Verify case numbering and combinations (e.g., "3&5" vs separate "3" and "5")
+
+## Vocabulary Format Requirements
+
+- **Header**: Use "### Từ vựng (Vocabulary)"
+- **Structure**: Always wrap vocabulary in HTML structure:
+  ```html
+  <div style="column-count:2;">
+      <ul>
+          <li><strong>word</strong> = vietnamese (english); vietnamese2 (english2)</li>
+      </ul>
+  </div>
+  ```
+- **Multiple meanings**: Use semicolon to separate: "người đàn ông (man); người (person)"
+- **Language priority**: Vietnamese first, English in parentheses
+- **Formatting**: Use `<strong>` tags for Pali words, not markdown bold
+
+## Navigation Updates
+
+When adding new sections:
+- Update `_languages/pali/index.md` navigation links using Vietnamese-only format
+- Update `_languages/pali/all.md` in two places:
+  1. **sections** front matter: Full bilingual titles
+  2. **Content sections**: Full bilingual headers with includes
+- **Title formats**:
+  - Index navigation: Vietnamese only: "Danh từ nam tính vĩ từ 'a'"
+  - All.md sections & content: Full bilingual: "Danh từ nam tính vĩ từ 'a' (Masculine Nouns ending in 'a')"
+- **Ordering**: Alphabetical by ending (a, i, ī, u), then irregulars by pattern
+
+### Navigation Pattern Examples:
+
+**In index.md (Vietnamese only):**
+```markdown
+- [Danh từ nam tính vĩ từ 'a'](/pali/masculine-nouns-a/)
+```
+
+**In all.md sections (Full bilingual):**
+```yaml
+- title: Danh từ nam tính vĩ từ 'a' (Masculine Nouns ending in 'a')
+  anchor: masculine-nouns-a
+```
+
+**In all.md content (Full bilingual):**
+```markdown
+## Danh từ nam tính vĩ từ 'a' (Masculine Nouns ending in 'a')
+{: #masculine-nouns-a}
+
+{% include pali/masculine-nouns-a/declension.md %}
+
+{% include pali/masculine-nouns-a/vocab.md %}
+```

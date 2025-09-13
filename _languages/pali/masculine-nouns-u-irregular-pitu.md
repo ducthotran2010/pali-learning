@@ -1,6 +1,6 @@
 ---
 layout: language
-title: "Danh từ nam tính vĩ từ 'u' bất quy tắc (Mẫu Pitu/pitar) - Irregular Masculine Nouns ending in 'u' (Pitu/pitar pattern)"
+title: "Danh từ nam tính vĩ từ 'u' bất quy tắc (Mẫu Pitu/pitar)"
 permalink: /pali/masculine-nouns-u-irregular-pitu/
 ---
 

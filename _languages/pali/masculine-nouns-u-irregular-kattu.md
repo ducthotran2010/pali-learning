@@ -1,6 +1,6 @@
 ---
 layout: language
-title: "Danh từ nam tính vĩ từ 'u' bất quy tắc (Mẫu Kattu/kattār) - Irregular Masculine Nouns ending in 'u' (Kattu/kattār pattern)"
+title: "Danh từ nam tính vĩ từ 'u' bất quy tắc (Mẫu Kattu/kattār)"
 permalink: /pali/masculine-nouns-u-irregular-kattu/
 ---
 

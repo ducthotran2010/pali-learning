@@ -1,6 +1,6 @@
 ---
 layout: language
-title: "Danh từ nam tính vĩ từ 'u' (Masculine Nouns ending in 'u')"
+title: "Danh từ nam tính vĩ từ 'u'"
 permalink: /pali/masculine-nouns-u/
 ---
 

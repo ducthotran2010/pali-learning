@@ -3,19 +3,19 @@ layout: language
 title: "Tổng hợp"
 permalink: /pali/all
 sections:
-  - title: Danh từ nam tính vĩ từ 'a' (Masculine Nouns ending in 'a')
+  - title: Danh từ nam tính vĩ từ 'a'
     anchor: masculine-nouns-a
-  - title: Danh từ nam tính vĩ từ 'i' (Masculine Nouns ending in 'i')
+  - title: Danh từ nam tính vĩ từ 'i'
     anchor: masculine-nouns-i
-  - title: Danh từ nam tính vĩ từ 'ī' (Masculine Nouns ending in 'ī')
+  - title: Danh từ nam tính vĩ từ 'ī'
     anchor: masculine-nouns-ii
-  - title: Danh từ nam tính vĩ từ 'u' (Masculine Nouns ending in 'u')
+  - title: Danh từ nam tính vĩ từ 'u'
     anchor: masculine-nouns-u
-  - title: Danh từ nam tính vĩ từ 'u' bất quy tắc (Mẫu Pitu/pitar) - Irregular Masculine Nouns ending in 'u' (Pitu/pitar pattern)
+  - title: Danh từ nam tính vĩ từ 'u' bất quy tắc (Mẫu Pitu/pitar)
     anchor: masculine-nouns-u-irregular-pitu
-  - title: Danh từ nam tính vĩ từ 'u' bất quy tắc (Mẫu Kattu/kattār) - Irregular Masculine Nouns ending in 'u' (Kattu/kattār pattern)
+  - title: Danh từ nam tính vĩ từ 'u' bất quy tắc (Mẫu Kattu/kattār)
     anchor: masculine-nouns-u-irregular-kattu
-  - title: Danh từ nữ tính vĩ từ 'ī' (Feminine Nouns ending in 'ī')
+  - title: Danh từ nữ tính vĩ từ 'ī'
     anchor: feminine-nouns-ii
 ---
 
@@ -67,49 +67,49 @@ sections:
 }
 </style>
 
-## Danh từ nam tính vĩ từ 'a' (Masculine Nouns ending in 'a')
+## Danh từ nam tính vĩ từ 'a'
 {: #masculine-nouns-a}
 
 {% include pali/masculine-nouns-a/declension.md %}
 
 {% include pali/masculine-nouns-a/vocab.md %}
 
-## Danh từ nam tính vĩ từ 'i' (Masculine Nouns ending in 'i')
+## Danh từ nam tính vĩ từ 'i'
 {: #masculine-nouns-i}
 
 {% include pali/masculine-nouns-i/declension.md %}
 
 {% include pali/masculine-nouns-i/vocab.md %}
 
-## Danh từ nam tính vĩ từ 'ī' (Masculine Nouns ending in 'ī')
+## Danh từ nam tính vĩ từ 'ī'
 {: #masculine-nouns-ii}
 
 {% include pali/masculine-nouns-ii/declension.md %}
 
 {% include pali/masculine-nouns-ii/vocab.md %}
 
-## Danh từ nam tính vĩ từ 'u' (Masculine Nouns ending in 'u')
+## Danh từ nam tính vĩ từ 'u'
 {: #masculine-nouns-u}
 
 {% include pali/masculine-nouns-u/declension.md %}
 
 {% include pali/masculine-nouns-u/vocab.md %}
 
-## Danh từ nam tính vĩ từ 'u' bất quy tắc (Mẫu Pitu/pitar) - Irregular Masculine Nouns ending in 'u' (Pitu/pitar pattern)
+## Danh từ nam tính vĩ từ 'u' bất quy tắc (Mẫu Pitu/pitar)
 {: #masculine-nouns-u-irregular-pitu}
 
 {% include pali/masculine-nouns-u-irregular-pitu/declension.md %}
 
 {% include pali/masculine-nouns-u-irregular-pitu/vocab.md %}
 
-## Danh từ nam tính vĩ từ 'u' bất quy tắc (Mẫu Kattu/kattār) - Irregular Masculine Nouns ending in 'u' (Kattu/kattār pattern)
+## Danh từ nam tính vĩ từ 'u' bất quy tắc (Mẫu Kattu/kattār)
 {: #masculine-nouns-u-irregular-kattu}
 
 {% include pali/masculine-nouns-u-irregular-kattu/declension.md %}
 
 {% include pali/masculine-nouns-u-irregular-kattu/vocab.md %}
 
-## Danh từ nữ tính vĩ từ 'ī' (Feminine Nouns ending in 'ī')
+## Danh từ nữ tính vĩ từ 'ī'
 {: #feminine-nouns-ii}
 
 {% include pali/feminine-nouns-ii/declension.md %}

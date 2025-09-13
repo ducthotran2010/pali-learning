@@ -1,6 +1,6 @@
 ---
 layout: language
-title: "Danh từ nam tính vĩ từ 'a' (Masculine Nouns ending in 'a')"
+title: "Danh từ nam tính vĩ từ 'a'"
 permalink: /pali/masculine-nouns-a/
 ---
 

@@ -187,6 +187,7 @@ Based on successful implementation, the key requirements are:
 ### File Naming Conventions
 - **Feminine nouns ending in 'ā'**: Use `feminine-nouns-aa` (ā -> double 'a') format for file names and directory names
 - **Masculine nouns ending in 'a'**: Use `masculine-nouns-a` (a -> 'a') format for file names and directory names
+- **Masculine nouns ending in 'ū'**: Use `masculine-nouns-uu` (ū -> double 'u') format for file names and directory names
 - **Navigation structure**: Single root index.md at repository root (avoid duplicate pali-specific index files)
 - **DRY Principle**: Remove redundant files and consolidate navigation structure to prevent duplication
 

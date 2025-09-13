@@ -145,3 +145,38 @@ The page with filter functionality, should have some filter options, for example
 - Tables not rendering: Check for missing blank lines around markdown tables in wrapper divs
 - Content not filtering: Verify CSS classes are correctly applied to the actual content containers
 - JavaScript errors: Ensure all referenced element IDs exist in the DOM when script runs
+
+### Working Filter Implementation Details
+Based on successful implementation, the key requirements are:
+
+**Correct Declension File Structure:**
+```html
+<div class="declension-content" markdown="1">
+
+| Cách | Si | Sn |
+| ---- | -- | -- |
+| 1    | content | content |
+
+</div>
+```
+
+**Correct Vocabulary File Structure:**
+```html
+<div class="vocab-content" style="column-count:2;">
+    <ul>
+        <li><strong>word</strong> = vietnamese (english); vietnamese2 (english2)</li>
+    </ul>
+</div>
+```
+
+**Critical Success Factors:**
+- **Blank lines**: Essential around markdown tables in `markdown="1"` divs
+- **Proper spacing**: Both after opening `<div>` and before closing `</div>`
+- **Inline styles**: Keep `style="column-count:2;"` in vocabulary files for proper rendering
+- **Simple CSS**: Minimal styling without complex overrides
+
+**Working Structure:**
+- Declension content: Wrapped in `markdown="1"` divs with proper spacing
+- Vocabulary content: Uses CSS class + inline column style
+- JavaScript: Basic show/hide functionality using CSS classes
+- Filter buttons: Simple toggle between "All", "Tables Only", and "Vocab Only"

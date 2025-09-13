@@ -12,6 +12,7 @@ permalink: /
 - [Danh từ nam tính vĩ từ 'u'](/pali/masculine-nouns-u/)
 - [Danh từ nam tính vĩ từ 'u' bất quy tắc (Mẫu Pitu/pitar)](/pali/masculine-nouns-u-irregular-pitu/)
 - [Danh từ nam tính vĩ từ 'u' bất quy tắc (Mẫu Kattu/kattār)](/pali/masculine-nouns-u-irregular-kattu/)
+- [Danh từ nam tính vĩ từ 'ū'](/pali/masculine-nouns-uu/)
 
 ### Danh từ nữ tính (Feminine Nouns)
 

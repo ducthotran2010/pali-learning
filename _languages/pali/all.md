@@ -72,6 +72,8 @@ sections:
 
 {% include pali/masculine-nouns-a/declension.md %}
 
+![Danh từ nữ tính vĩ từ 'ā' - Từ vựng](../../../assets/images/feminine-nouns-aa-vocabulary.png)
+
 {% include pali/masculine-nouns-a/vocab.md %}
 
 ## Danh từ nam tính vĩ từ 'i'
@@ -85,6 +87,8 @@ sections:
 {: #masculine-nouns-ii}
 
 {% include pali/masculine-nouns-ii/declension.md %}
+
+![Danh từ nam tính vĩ từ 'ī' - Từ vựng](../../../assets/images/masculine-nouns-ii-vocabulary.png)
 
 {% include pali/masculine-nouns-ii/vocab.md %}
 
@@ -111,6 +115,8 @@ sections:
 
 ## Danh từ nữ tính vĩ từ 'ī'
 {: #feminine-nouns-ii}
+
+![Danh từ nữ tính vĩ từ 'ī' - Bảng chia và từ vựng](../../../assets/images/feminine-nouns-ii-declension.png)
 
 {% include pali/feminine-nouns-ii/declension.md %}
 

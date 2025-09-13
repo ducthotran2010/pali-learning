@@ -10,6 +10,7 @@ This is a Pāḷi language learning repository focused exclusively on Pāḷi gr
 
 - `_languages/pali/` - Main Pāḷi grammar pages organized by declension patterns
 - `_includes/pali/` - Reusable components for declension tables and vocabulary
+- `assets/images/` - All images and visual materials for Pāḷi lessons
 - Repository is organized around individual declension patterns as separate sections
 - Each section follows the pattern: Section Page → Declension Table → Vocabulary
 

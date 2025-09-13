@@ -117,3 +117,31 @@ When adding new sections:
 
 {% include pali/masculine-nouns-a/vocab.md %}
 ```
+
+## Filter Implementation
+
+The page with filter functionality, should have some filter options, for example:
+
+### Filter Structure
+- **Filter buttons**: Located at the top of all.md page with CSS classes and JavaScript handlers
+- **Filter options**:
+  - "Tất cả (All)" - shows both declension tables and vocabulary
+  - "Chỉ bảng chia (Tables Only)" - shows only declension tables
+  - "Chỉ từ vựng (Vocab Only)" - shows only vocabulary sections
+
+### Technical Implementation
+- **Declension content**: Each declension.md file wrapped in `<div class="declension-content" markdown="1">` to enable both CSS targeting and Markdown processing
+- **Vocabulary content**: Each vocab.md file has `class="vocab-content"` added to existing `<div style="column-count:2;">` tags
+- **JavaScript**: Uses `document.querySelectorAll()` to find elements by class and toggle `hidden` class
+- **CSS**: `.hidden { display: none; }` class for hiding content
+
+### Critical Requirements for Proper Rendering
+- **Markdown spacing**: Tables inside HTML divs require blank lines before and after the table for proper Markdown processing
+- **markdown="1" attribute**: Essential for processing Markdown content inside HTML wrapper divs
+- **No duplicate headings**: Include files should not contain section headings that conflict with main page structure
+- **Proper div closure**: Ensure proper spacing around closing `</div>` tags
+
+### Troubleshooting Notes
+- Tables not rendering: Check for missing blank lines around markdown tables in wrapper divs
+- Content not filtering: Verify CSS classes are correctly applied to the actual content containers
+- JavaScript errors: Ensure all referenced element IDs exist in the DOM when script runs

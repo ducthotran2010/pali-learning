@@ -19,6 +19,8 @@ sections:
     anchor: masculine-nouns-uu
   - title: Danh từ nữ tính vĩ từ 'ā'
     anchor: feminine-nouns-aa
+  - title: Danh từ nữ tính vĩ từ 'i'
+    anchor: feminine-nouns-i
   - title: Danh từ nữ tính vĩ từ 'ī'
     anchor: feminine-nouns-ii
 ---
@@ -131,14 +133,21 @@ sections:
 
 ![Danh từ nữ tính vĩ từ 'ā' - Từ vựng](../../../assets/images/feminine-nouns-aa-vocabulary.png)
 
+## Danh từ nữ tính vĩ từ 'i'
+{: #feminine-nouns-i}
+
+{% include pali/feminine-nouns-i/declension.md %}
+
+{% include pali/feminine-nouns-i/vocab.md %}
+
 ## Danh từ nữ tính vĩ từ 'ī'
 {: #feminine-nouns-ii}
-
-![Danh từ nữ tính vĩ từ 'ī' - Bảng chia và từ vựng](../../../assets/images/feminine-nouns-ii-vocabulary.png)
 
 {% include pali/feminine-nouns-ii/declension.md %}
 
 {% include pali/feminine-nouns-ii/vocab.md %}
+
+![Danh từ nữ tính vĩ từ 'ī' - Bảng chia và từ vựng](../../../assets/images/feminine-nouns-ii-vocabulary.png)
 
 <script>
 document.addEventListener('DOMContentLoaded', function() {

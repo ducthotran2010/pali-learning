@@ -17,6 +17,7 @@ permalink: /
 ### Danh từ nữ tính (Feminine Nouns)
 
 - [Danh từ nữ tính vĩ từ 'ā'](/pali/feminine-nouns-aa/)
+- [Danh từ nữ tính vĩ từ 'i'](/pali/feminine-nouns-i/)
 - [Danh từ nữ tính vĩ từ 'ī'](/pali/feminine-nouns-ii/)
 
 ---

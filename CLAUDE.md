@@ -80,7 +80,7 @@ When creating or updating Pāḷi declension tables:
       </ul>
   </div>
   ```
-- **Multiple meanings**: Use semicolon to separate: "người đàn ông (man); người (person)"
+- **Multiple meanings**: Use semicolon to separate different Vietnamese meanings with corresponding English: "tảng đá (rock); viên đá (stone)"
 - **Language priority**: Vietnamese first, English in parentheses
 - **Formatting**: Use `<strong>` tags for Pali words, not markdown bold
 

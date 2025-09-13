@@ -1,6 +1,6 @@
-### Từ vựng (Vocabulary)
 
-<div style="column-count:2;">
+
+<div class="vocab-content" style="column-count:2;">
     <ul>
         <li><strong>nārī</strong> = phụ nữ (woman)</li>
         <li><strong>taruṇī</strong> = thiếu nữ (young woman)</li>

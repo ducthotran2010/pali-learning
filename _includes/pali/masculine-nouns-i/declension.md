@@ -1,3 +1,4 @@
+<div class="declension-content" markdown="1">
 | Cách | Si                                                                    | Sn                                             |
 | ---- | --------------------------------------------------------------------- | ---------------------------------------------- |
 | 1    | $({agg\color{red}ini})$, ${agg\color{red}i}$                          | ${agg\color{red}ī}$, ${agg\color{red}ayo}$     |
@@ -9,3 +10,4 @@
 | 7    | ${agg\color{red}imhi}$, ${agg\color{red}ismiṃ}$                       | ${agg\color{red}īsu}$, ${agg\color{red}isu}$   |
 
 > Lưu ý: Biến cách 1, Si: Aggini chỉ xuất hiện ở từ Aggi.
+</div>

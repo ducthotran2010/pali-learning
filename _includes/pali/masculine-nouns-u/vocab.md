@@ -1,6 +1,6 @@
-### Từ vựng (Vocabulary)
 
-<div style="column-count:2;">
+
+<div class="vocab-content" style="column-count:2;">
     <ul>
         <li><strong>bhikkhu</strong> = tỳ kheo (monk)</li>
         <li><strong>setu</strong> = cầu (bridge)</li>

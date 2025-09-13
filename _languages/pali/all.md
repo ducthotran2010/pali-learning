@@ -19,6 +19,54 @@ sections:
     anchor: feminine-nouns-ii
 ---
 
+<div class="content-filters">
+  <button id="show-all" class="filter-btn active">Tất cả (All)</button>
+  <button id="show-tables" class="filter-btn">Chỉ bảng chia (Tables Only)</button>
+  <button id="show-vocab" class="filter-btn">Chỉ từ vựng (Vocab Only)</button>
+</div>
+
+<style>
+.content-filters {
+  margin: 20px 0;
+  text-align: center;
+  border-bottom: 1px solid #ddd;
+  padding-bottom: 15px;
+}
+
+.filter-btn {
+  background: #f8f9fa;
+  border: 1px solid #ddd;
+  padding: 8px 16px;
+  margin: 0 5px;
+  cursor: pointer;
+  border-radius: 4px;
+  font-size: 14px;
+  transition: all 0.3s ease;
+}
+
+.filter-btn:hover {
+  background: #e9ecef;
+}
+
+.filter-btn.active {
+  background: #007bff;
+  color: white;
+  border-color: #007bff;
+}
+
+.declension-content {
+  transition: opacity 0.3s ease;
+}
+
+.vocab-content {
+  transition: opacity 0.3s ease;
+}
+
+.hidden {
+  display: none;
+}
+</style>
+
 ## Danh từ nam tính vĩ từ 'a' (Masculine Nouns ending in 'a')
 {: #masculine-nouns-a}
 
@@ -67,3 +115,42 @@ sections:
 {% include pali/feminine-nouns-ii/declension.md %}
 
 {% include pali/feminine-nouns-ii/vocab.md %}
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    const showAllBtn = document.getElementById('show-all');
+    const showTablesBtn = document.getElementById('show-tables');
+    const showVocabBtn = document.getElementById('show-vocab');
+
+    const declensionContents = document.querySelectorAll('.declension-content');
+    const vocabContents = document.querySelectorAll('.vocab-content');
+    const filterBtns = document.querySelectorAll('.filter-btn');
+
+    function setActiveButton(activeBtn) {
+        filterBtns.forEach(btn => btn.classList.remove('active'));
+        activeBtn.classList.add('active');
+    }
+
+    function showAll() {
+        declensionContents.forEach(content => content.classList.remove('hidden'));
+        vocabContents.forEach(content => content.classList.remove('hidden'));
+        setActiveButton(showAllBtn);
+    }
+
+    function showTablesOnly() {
+        declensionContents.forEach(content => content.classList.remove('hidden'));
+        vocabContents.forEach(content => content.classList.add('hidden'));
+        setActiveButton(showTablesBtn);
+    }
+
+    function showVocabOnly() {
+        declensionContents.forEach(content => content.classList.add('hidden'));
+        vocabContents.forEach(content => content.classList.remove('hidden'));
+        setActiveButton(showVocabBtn);
+    }
+
+    showAllBtn.addEventListener('click', showAll);
+    showTablesBtn.addEventListener('click', showTablesOnly);
+    showVocabBtn.addEventListener('click', showVocabOnly);
+});
+</script>

@@ -1,3 +1,5 @@
+<div class="declension-content" markdown="1">
+
 | Cách | Si                                                                         | Sn                         |
 | ---- | -------------------------------------------------------------------------- | -------------------------- |
 | 1    | ${puris\color{red}o}$                                                      | ${puris\color{red}ā}$      |
@@ -8,3 +10,5 @@
 | 4    | ${puris\color{red}assa}$, ${(puris\color{red}āya)}$                        | ${puris\color{red}ānaṃ}$   |
 | 6    | ${puris\color{red}assa}$                                                   |                            |
 | 7    | ${puris\color{red}e}$, ${puris\color{red}amhi}$, ${puris\color{red}asmiṃ}$ | ${puris\color{red}esu}$    |
+
+</div>

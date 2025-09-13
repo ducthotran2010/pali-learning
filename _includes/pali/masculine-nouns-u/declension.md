@@ -1,3 +1,4 @@
+<div class="declension-content" markdown="1">
 | Cách | Si                                                                             | Sn                                                                            |
 | ---- | ------------------------------------------------------------------------------ | ----------------------------------------------------------------------------- |
 | 1    | ${bhikkh\color{red}u}$                                                         | ${bhikkh\color{red}ū}$, ${bhikkh\color{red}avo}$                              |
@@ -9,3 +10,4 @@
 | 7    | ${bhikkh\color{red}umhi}$, ${bhikkh\color{red}usmiṃ}$                          | ${bhikkh\color{red}ūsu}$, ${bhikkh\color{red}usu}$                            |
 
 > Lưu ý: Biến cách 8, Sn: Bhikkhave chỉ xuất hiện ở từ Bhikkhu.
+</div>

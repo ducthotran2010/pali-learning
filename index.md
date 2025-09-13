@@ -10,7 +10,8 @@ permalink: /
 - [Danh từ nam tính vĩ từ 'i'](/pali/masculine-nouns-i/)
 - [Danh từ nam tính vĩ từ 'ī'](/pali/masculine-nouns-ii/)
 - [Danh từ nam tính vĩ từ 'u'](/pali/masculine-nouns-u/)
-- [Danh từ nam tính vĩ từ 'u' bất quy tắc](/pali/masculine-nouns-u-irregular/)
+- [Danh từ nam tính vĩ từ 'u' bất quy tắc (Mẫu Pitu/pitar)](/pali/masculine-nouns-u-irregular-pitu/)
+- [Danh từ nam tính vĩ từ 'u' bất quy tắc (Mẫu Kattu/kattār)](/pali/masculine-nouns-u-irregular-kattu/)
 
 ### Danh từ nữ tính (Feminine Nouns)
 

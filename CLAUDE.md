@@ -4,21 +4,21 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Repository Purpose
 
-This is a language learning repository containing grammar references and vocabulary tables for multiple languages. The content focuses on Pali grammar declensions (masculine and feminine nouns with various endings), with Vietnamese translations and explanations.
+This is a language learning repository containing grammar references and vocabulary tables for multiple languages. The content focuses on Pāḷi grammar declensions (masculine and feminine nouns with various endings), with Vietnamese translations and explanations.
 
 ## Structure
 
-- `pali/README.md` - Pali grammar content in Vietnamese with declension tables and vocabulary
+- `pali/README.md` - Pāḷi grammar content in Vietnamese with declension tables and vocabulary
 - `english/README.md` - English language content (currently empty)
 - Repository is organized by language directories for multilingual support
 
 ## Content Format
 
-- Uses LaTeX math notation for Pali script with color coding:
+- Uses LaTeX math notation for Pāḷi script with color coding:
   - Red text highlights grammatical endings and variations
   - Blue text indicates alternative forms
 - Tables show grammatical cases (cách) with singular (Si) and plural (Sn) forms
-- Vocabulary sections use structured lists with Pali terms and English definitions
+- Vocabulary sections use structured lists with Pāḷi terms and English definitions
 
 ## Working with This Repository
 
@@ -29,7 +29,7 @@ This is a language learning repository containing grammar references and vocabul
 
 ## Guidelines for Declension Tables
 
-When creating or updating Pali declension tables:
+When creating or updating Pāḷi declension tables:
 
 ### Accuracy Requirements
 - **Copy exactly from source**: Match forms precisely as shown in provided images/references

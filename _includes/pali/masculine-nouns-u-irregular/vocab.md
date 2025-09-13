@@ -1,5 +1,15 @@
-**Pitu/pitar pattern:**
-- **pitu/pitar** = father
+### Từ vựng (Vocabulary)
 
-**Kattu/kattār pattern:**
-- **kattu/kattār** = doer, agent
+#### Mẫu Pitu/pitar (Pitu/pitar pattern)
+<div style="column-count:2;">
+    <ul>
+        <li><strong>pitu/pitar</strong> = cha (father)</li>
+    </ul>
+</div>
+
+#### Mẫu Kattu/kattār (Kattu/kattār pattern)
+<div style="column-count:2;">
+    <ul>
+        <li><strong>kattu/kattār</strong> = người làm (doer); tác nhân (agent)</li>
+    </ul>
+</div>

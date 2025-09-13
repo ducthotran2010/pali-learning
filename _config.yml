@@ -1,6 +1,6 @@
 # Site settings
-title: Language Learning
-description: Grammar references and vocabulary tables for multiple languages
+title: Đọc hiểu Pāḷi (Pāḷi learning)
+description: Tài liệu ngữ pháp và từ vựng Pāḷi với giải thích tiếng Việt
 baseurl: ""
 url: "https://ducthotran2010.github.io"
 
@@ -23,7 +23,6 @@ plugins:
 # Navigation
 header_pages:
   - _languages/pali/index.md
-  - _languages/english/index.md
 
 # Collections for better organization
 collections:

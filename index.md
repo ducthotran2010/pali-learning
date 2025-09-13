@@ -1,33 +1,23 @@
 ---
-layout: home
-title: Language Learning
+layout: language
+title: Danh từ (Nouns)
+permalink: /
 ---
 
-Welcome to our multilingual grammar reference and vocabulary collection. This site contains comprehensive learning materials for multiple languages with detailed grammatical explanations and structured vocabulary tables.
+### Danh từ nam tính (Masculine Nouns)
 
-## Available Languages
+- [Danh từ nam tính vĩ từ 'a'](/pali/masculine-nouns-a/)
+- [Danh từ nam tính vĩ từ 'i'](/pali/masculine-nouns-i/)
+- [Danh từ nam tính vĩ từ 'ī'](/pali/masculine-nouns-ii/)
+- [Danh từ nam tính vĩ từ 'u'](/pali/masculine-nouns-u/)
+- [Danh từ nam tính vĩ từ 'u' bất quy tắc](/pali/masculine-nouns-u-irregular/)
 
-### [Pali](/pali/)
-Complete Pali grammar reference with Vietnamese explanations, featuring:
-- Detailed declension tables for masculine and feminine nouns
-- Color-coded grammatical forms using mathematical notation
-- Comprehensive vocabulary lists with English translations
-- Focus on various stem endings (ī-stems, consonant stems, etc.)
+### Danh từ nữ tính (Feminine Nouns)
 
-### [English](/english/)
-English language learning materials (in development)
-
-## Features
-
-- **Comprehensive Grammar Tables**: Detailed declension patterns showing all grammatical cases
-- **Visual Learning**: Color-coded forms to highlight grammatical variations
-- **Multilingual Support**: Content available in Vietnamese and English
-- **Structured Vocabulary**: Organized word lists with translations and grammatical information
-
-## Navigation
-
-Use the navigation menu above to explore different language sections. Each language directory contains detailed grammar explanations and vocabulary specific to that language.
+- [Danh từ nữ tính vĩ từ 'ī'](/pali/feminine-nouns-ii/)
 
 ---
 
-*This is a continuously updated resource for language learners interested in classical and modern languages.*
+## Khác
+
+- [Bảng tổng hợp](/pali/all)

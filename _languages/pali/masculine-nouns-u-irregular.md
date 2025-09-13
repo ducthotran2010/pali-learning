@@ -1,6 +1,6 @@
 ---
 layout: language
-title: "Danh từ nam tính vĩ từ 'u' bất quy tắc"
+title: "Danh từ nam tính vĩ từ 'u' bất quy tắc (Irregular Masculine Nouns ending in 'u')"
 permalink: /pali/masculine-nouns-u-irregular/
 ---
 

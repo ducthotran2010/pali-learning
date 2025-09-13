@@ -1,6 +1,6 @@
 ---
 layout: language
-title: "Danh từ nam tính vĩ từ 'i'"
+title: "Danh từ nam tính vĩ từ 'ī' (Masculine Nouns ending in 'ī')"
 permalink: /pali/masculine-nouns-ii/
 ---
 

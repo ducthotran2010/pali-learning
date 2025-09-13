@@ -1,6 +1,6 @@
-# Language Learning
+# Đọc hiểu Pāḷi (Pāḷi Learning)
 
-A multilingual grammar reference and vocabulary collection with Jekyll-powered website and Docker support.
+Tài liệu ngữ pháp và từ vựng Pāḷi với giải thích tiếng Việt - A Pāḷi grammar reference and vocabulary collection with Vietnamese explanations, powered by Jekyll and Docker.
 
 ## 🌐 Live Site
 
@@ -16,15 +16,8 @@ language-learning/
 ├── docker-compose.yml  # Development environment
 ├── .gitignore          # Excludes build files and artifacts
 │
-├── pali/               # 📚 Pali language content (source of truth)
-│   └── README.md       # Complete Pali grammar with Vietnamese explanations
-│
-├── english/            # 📚 English language content
-│   └── README.md       # English materials (in development)
-│
-├── _languages/         # 🏗️ Jekyll collections for enhanced presentation
-│   ├── pali/index.md   # Loads content from pali/README.md
-│   └── english/index.md
+├── _languages/         # 🏗️ Jekyll collections for Pāḷi content
+│   └── pali/           # Complete Pāḷi grammar with Vietnamese explanations
 │
 ├── _includes/          # 🔧 Reusable components
 │   └── mathjax.html    # LaTeX math rendering configuration
@@ -69,42 +62,29 @@ bundle exec jekyll serve --livereload
 ## ✨ Key Features
 
 ### 📖 Content Management
-- **Single Source of Truth**: Content lives in `pali/README.md`, `english/README.md`
-- **Zero Duplication**: Jekyll dynamically loads original content
+- **Pāḷi Grammar Focus**: Comprehensive Pāḷi declension tables and vocabulary
+- **Vietnamese Explanations**: Primary language with English translations
 - **Live Reload**: Changes reflect immediately during development
 
 ### 🔬 LaTeX Math Support
-- **MathJax Integration**: Renders complex Pali grammatical notation
+- **MathJax Integration**: Renders complex Pāḷi grammatical notation
 - **Color Coding**: Red and blue text for grammatical variations
 - **Optimized**: Fast rendering with custom macros
 
 ### 🎯 Professional Presentation
-- **Clean URLs**: `/pali/`, `/english/` instead of complex paths
+- **Clean URLs**: Organized Pāḷi grammar sections
 - **Responsive Design**: Works on desktop and mobile
 - **Enhanced Tables**: Beautiful grammar declension tables
 - **SEO Optimized**: Proper meta tags and structure
 
 ## 📚 Content Organization
 
-### Pali Language
-- Complete declension tables for masculine and feminine nouns
-- Vietnamese explanations with English translations
-- Color-coded grammatical forms: `${agg\color{red}i}$`
-- Comprehensive vocabulary with grammatical information
-
-### Adding New Languages
-1. Create `newlang/README.md` with your content
-2. Add `_languages/newlang/index.md`:
-   ```markdown
-   ---
-   layout: language
-   title: New Language Reference
-   permalink: /newlang/
-   ---
-   
-   {% markdown newlang/README.md %}
-   ```
-3. Update `_config.yml` navigation
+### Pāḷi Grammar Structure
+- **Danh từ nam tính (Masculine Nouns)**: Complete declension tables for various endings ('a', 'i', 'ī', 'u')
+- **Danh từ nữ tính (Feminine Nouns)**: Feminine noun declensions with 'ī' endings
+- **Vietnamese Explanations**: Primary language with English translations
+- **Color-coded Forms**: LaTeX notation `${word\color{red}ending}$` for grammatical variations
+- **Comprehensive Vocabulary**: Organized word lists with Vietnamese and English meanings
 
 ## 🛠️ Development
 
@@ -138,7 +118,7 @@ Custom `{% markdown file.md %}` tag dynamically loads content:
 ```
 
 ### MathJax Configuration
-Optimized for Pali grammatical notation:
+Optimized for Pāḷi grammatical notation:
 ```javascript
 // Supports inline: $formula$ and display: $$formula$$
 // Custom color macros: \red{text}, \blue{text}
@@ -152,9 +132,9 @@ Optimized for Pali grammatical notation:
 ## 📋 Maintenance
 
 ### Content Updates
-- Edit files in `pali/`, `english/` directories
+- Edit files in `_languages/pali/` and `_includes/pali/` directories
 - Jekyll automatically reflects changes
-- No need to update multiple locations
+- Vocabulary and declension tables update dynamically
 
 ### Adding Features
 - Layouts: `_layouts/`
@@ -164,10 +144,16 @@ Optimized for Pali grammatical notation:
 
 ## 🤝 Contributing
 
-1. Edit content in language directories (`pali/`, `english/`)
+1. Edit Pāḷi content in `_languages/pali/` and vocabulary in `_includes/pali/`
 2. Test locally with `docker-compose up`
 3. Commit changes (build files are ignored)
 4. Submit pull request
+
+Focus areas for contributions:
+- Additional Pāḷi declension patterns
+- More comprehensive vocabulary lists
+- Vietnamese translation improvements
+- Grammatical explanations and examples
 
 ## 📄 License
 

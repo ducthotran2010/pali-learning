@@ -3,49 +3,49 @@ layout: language
 title: "Tổng hợp"
 permalink: /pali/all
 sections:
-  - title: Danh từ nam tính vĩ từ 'a'
+  - title: Danh từ nam tính vĩ từ 'a' (Masculine Nouns ending in 'a')
     anchor: masculine-nouns-a
-  - title: Danh từ nam tính vĩ từ 'i'
+  - title: Danh từ nam tính vĩ từ 'i' (Masculine Nouns ending in 'i')
     anchor: masculine-nouns-i
-  - title: Danh từ nam tính vĩ từ 'ī'
+  - title: Danh từ nam tính vĩ từ 'ī' (Masculine Nouns ending in 'ī')
     anchor: masculine-nouns-ii
-  - title: Danh từ nam tính vĩ từ 'u'
+  - title: Danh từ nam tính vĩ từ 'u' (Masculine Nouns ending in 'u')
     anchor: masculine-nouns-u
-  - title: Danh từ nam tính vĩ từ 'u' bất quy tắc
+  - title: Danh từ nam tính vĩ từ 'u' bất quy tắc (Irregular Masculine Nouns ending in 'u')
     anchor: masculine-nouns-u-irregular
-  - title: Danh từ nữ tính vĩ từ 'ī'
+  - title: Danh từ nữ tính vĩ từ 'ī' (Feminine Nouns ending in 'ī')
     anchor: feminine-nouns-ii
 ---
 
-## Danh từ nam tính vĩ từ 'a'
+## Danh từ nam tính vĩ từ 'a' (Masculine Nouns ending in 'a')
 {: #masculine-nouns-a}
 
 {% include pali/masculine-nouns-a/declension.md %}
 
 {% include pali/masculine-nouns-a/vocab.md %}
 
-## Danh từ nam tính vĩ từ 'i'
+## Danh từ nam tính vĩ từ 'i' (Masculine Nouns ending in 'i')
 {: #masculine-nouns-i}
 
 {% include pali/masculine-nouns-i/declension.md %}
 
 {% include pali/masculine-nouns-i/vocab.md %}
 
-## Danh từ nam tính vĩ từ 'ī'
+## Danh từ nam tính vĩ từ 'ī' (Masculine Nouns ending in 'ī')
 {: #masculine-nouns-ii}
 
 {% include pali/masculine-nouns-ii/declension.md %}
 
 {% include pali/masculine-nouns-ii/vocab.md %}
 
-## Danh từ nam tính vĩ từ 'u'
+## Danh từ nam tính vĩ từ 'u' (Masculine Nouns ending in 'u')
 {: #masculine-nouns-u}
 
 {% include pali/masculine-nouns-u/declension.md %}
 
 {% include pali/masculine-nouns-u/vocab.md %}
 
-## Danh từ nam tính vĩ từ 'u' bất quy tắc
+## Danh từ nam tính vĩ từ 'u' bất quy tắc (Irregular Masculine Nouns ending in 'u')
 {: #masculine-nouns-u-irregular}
 
 {% include pali/masculine-nouns-u-irregular/kattu-declension.md %}
@@ -54,7 +54,7 @@ sections:
 
 {% include pali/masculine-nouns-u-irregular/vocab.md %}
 
-## Danh từ nữ tính vĩ từ 'ī'
+## Danh từ nữ tính vĩ từ 'ī' (Feminine Nouns ending in 'ī')
 {: #feminine-nouns-ii}
 
 {% include pali/feminine-nouns-ii/declension.md %}

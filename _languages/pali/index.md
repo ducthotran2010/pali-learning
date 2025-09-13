@@ -6,6 +6,7 @@ permalink: /pali/
 
 ### Danh từ nam tính (Masculine Nouns)
 
+- [Danh từ nam tính vĩ từ 'a'](/pali/masculine-nouns-a/)
 - [Danh từ nam tính vĩ từ 'i'](/pali/masculine-nouns-i/)
 - [Danh từ nam tính vĩ từ 'ī'](/pali/masculine-nouns-ii/)
 - [Danh từ nam tính vĩ từ 'u'](/pali/masculine-nouns-u/)

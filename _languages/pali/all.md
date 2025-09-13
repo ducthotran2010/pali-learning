@@ -3,17 +3,26 @@ layout: language
 title: "Tổng hợp"
 permalink: /pali/all
 sections:
-  - title: Danh từ nam tính vĩ từ 'i' 
+  - title: Danh từ nam tính vĩ từ 'a'
+    anchor: masculine-nouns-a
+  - title: Danh từ nam tính vĩ từ 'i'
     anchor: masculine-nouns-i
-  - title: Danh từ nam tính vĩ từ 'ī' 
+  - title: Danh từ nam tính vĩ từ 'ī'
     anchor: masculine-nouns-ii
-  - title: Danh từ nam tính vĩ từ 'u' 
+  - title: Danh từ nam tính vĩ từ 'u'
     anchor: masculine-nouns-u
-  - title: Danh từ nam tính vĩ từ 'u' bất quy tắc 
+  - title: Danh từ nam tính vĩ từ 'u' bất quy tắc
     anchor: masculine-nouns-u-irregular
-  - title: Danh từ nữ tính vĩ từ 'ī' 
+  - title: Danh từ nữ tính vĩ từ 'ī'
     anchor: feminine-nouns-ii
 ---
+
+## Danh từ nam tính vĩ từ 'a'
+{: #masculine-nouns-a}
+
+{% include pali/masculine-nouns-a/declension.md %}
+
+{% include pali/masculine-nouns-a/vocab.md %}
 
 ## Danh từ nam tính vĩ từ 'i'
 {: #masculine-nouns-i}

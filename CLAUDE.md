@@ -93,7 +93,7 @@ When adding new sections:
   2. **Content sections**: Full bilingual headers with includes
 - **Title formats**:
   - Index navigation: Vietnamese only: "Danh từ nam tính vĩ từ 'a'"
-  - All.md sections & content: Full bilingual: "Danh từ nam tính vĩ từ 'a' (Masculine Nouns ending in 'a')"
+  - All.md sections & content: Vietnamese only: "Danh từ nam tính vĩ từ 'a'" (no English explanations in headers)
 - **Ordering**: Alphabetical by ending (a, i, ī, u), then irregulars by pattern
 
 ### Navigation Pattern Examples:
@@ -103,15 +103,15 @@ When adding new sections:
 - [Danh từ nam tính vĩ từ 'a'](/pali/masculine-nouns-a/)
 ```
 
-**In all.md sections (Full bilingual):**
+**In all.md sections (Vietnamese only):**
 ```yaml
-- title: Danh từ nam tính vĩ từ 'a' (Masculine Nouns ending in 'a')
+- title: Danh từ nam tính vĩ từ 'a'
   anchor: masculine-nouns-a
 ```
 
-**In all.md content (Full bilingual):**
+**In all.md content (Vietnamese only):**
 ```markdown
-## Danh từ nam tính vĩ từ 'a' (Masculine Nouns ending in 'a')
+## Danh từ nam tính vĩ từ 'a'
 {: #masculine-nouns-a}
 
 {% include pali/masculine-nouns-a/declension.md %}
@@ -181,5 +181,17 @@ Based on successful implementation, the key requirements are:
 - Vocabulary content: Uses CSS class + inline column style
 - JavaScript: Basic show/hide functionality using CSS classes
 - Filter buttons: Simple toggle between "All", "Tables Only", and "Vocab Only"
-- try not to repeat your self
-- don't add more content in .md if i don't request
+
+## Repository Conventions & Best Practices
+
+### File Naming Conventions
+- **Feminine nouns ending in 'ā'**: Use `feminine-nouns-aa` (ā -> double 'a') format for file names and directory names
+- **Masculine nouns ending in 'a'**: Use `masculine-nouns-a` (a -> 'a') format for file names and directory names
+- **Navigation structure**: Single root index.md at repository root (avoid duplicate pali-specific index files)
+- **DRY Principle**: Remove redundant files and consolidate navigation structure to prevent duplication
+
+### Development Guidelines
+- **Content Policy**: Never add content to .md files unless explicitly requested by user
+- **Minimal Changes**: Only make requested changes, avoid adding explanatory text or summaries
+- **File Structure**: Prefer editing existing files over creating new ones unless absolutely necessary
+- **Headers**: Use Vietnamese only, no English explanations in section headers (e.g., "Danh từ nữ tính vĩ từ 'ā'" not "Danh từ nữ tính vĩ từ 'ā' (Feminine Nouns ending in 'ā')")

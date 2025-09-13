@@ -15,7 +15,7 @@ sections:
     anchor: masculine-nouns-u-irregular-pitu
   - title: Danh từ nam tính vĩ từ 'u' bất quy tắc (Mẫu Kattu/kattār)
     anchor: masculine-nouns-u-irregular-kattu
-  - title: Danh từ nữ tính vĩ từ 'ā' (Feminine Nouns ending in 'ā')
+  - title: Danh từ nữ tính vĩ từ 'ā'
     anchor: feminine-nouns-aa
   - title: Danh từ nữ tính vĩ từ 'ī'
     anchor: feminine-nouns-ii
@@ -113,7 +113,7 @@ sections:
 
 {% include pali/masculine-nouns-u-irregular-kattu/vocab.md %}
 
-## Danh từ nữ tính vĩ từ 'ā' (Feminine Nouns ending in 'ā')
+## Danh từ nữ tính vĩ từ 'ā'
 {: #feminine-nouns-aa}
 
 {% include pali/feminine-nouns-aa/declension.md %}

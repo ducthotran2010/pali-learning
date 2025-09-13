@@ -181,3 +181,5 @@ Based on successful implementation, the key requirements are:
 - Vocabulary content: Uses CSS class + inline column style
 - JavaScript: Basic show/hide functionality using CSS classes
 - Filter buttons: Simple toggle between "All", "Tables Only", and "Vocab Only"
+- try not to repeat your self
+- don't add more content in .md if i don't request

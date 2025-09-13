@@ -15,6 +15,8 @@ sections:
     anchor: masculine-nouns-u-irregular-pitu
   - title: Danh từ nam tính vĩ từ 'u' bất quy tắc (Mẫu Kattu/kattār)
     anchor: masculine-nouns-u-irregular-kattu
+  - title: Danh từ nữ tính vĩ từ 'ā' (Feminine Nouns ending in 'ā')
+    anchor: feminine-nouns-aa
   - title: Danh từ nữ tính vĩ từ 'ī'
     anchor: feminine-nouns-ii
 ---
@@ -72,8 +74,6 @@ sections:
 
 {% include pali/masculine-nouns-a/declension.md %}
 
-![Danh từ nữ tính vĩ từ 'ā' - Từ vựng](../../../assets/images/feminine-nouns-aa-vocabulary.png)
-
 {% include pali/masculine-nouns-a/vocab.md %}
 
 ## Danh từ nam tính vĩ từ 'i'
@@ -113,10 +113,19 @@ sections:
 
 {% include pali/masculine-nouns-u-irregular-kattu/vocab.md %}
 
+## Danh từ nữ tính vĩ từ 'ā' (Feminine Nouns ending in 'ā')
+{: #feminine-nouns-aa}
+
+{% include pali/feminine-nouns-aa/declension.md %}
+
+{% include pali/feminine-nouns-aa/vocab.md %}
+
+![Danh từ nữ tính vĩ từ 'ā' - Từ vựng](../../../assets/images/feminine-nouns-aa-vocabulary.png)
+
 ## Danh từ nữ tính vĩ từ 'ī'
 {: #feminine-nouns-ii}
 
-![Danh từ nữ tính vĩ từ 'ī' - Bảng chia và từ vựng](../../../assets/images/feminine-nouns-ii-declension.png)
+![Danh từ nữ tính vĩ từ 'ī' - Bảng chia và từ vựng](../../../assets/images/feminine-nouns-ii-vocabulary.png)
 
 {% include pali/feminine-nouns-ii/declension.md %}
 

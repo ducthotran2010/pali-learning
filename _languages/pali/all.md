@@ -1,7 +1,7 @@
 ---
 layout: language
 title: "Tổng hợp"
-permalink: /pali/all
+permalink: /pali/all/
 sections:
   - title: Danh từ nam tính vĩ từ 'a'
     anchor: masculine-nouns-a
@@ -105,7 +105,7 @@ sections:
 
 {% include pali/masculine-nouns-ii/declension.md %}
 
-![Danh từ nam tính vĩ từ 'ī' - Từ vựng](../../../assets/images/masculine-nouns-ii-vocabulary.png)
+![Danh từ nam tính vĩ từ 'ī' - Từ vựng]({{ '/assets/images/masculine-nouns-ii-vocabulary.png' | relative_url }})
 
 {% include pali/masculine-nouns-ii/vocab.md %}
 
@@ -144,7 +144,7 @@ sections:
 
 {% include pali/feminine-nouns-aa/vocab.md %}
 
-![Danh từ nữ tính vĩ từ 'ā' - Từ vựng](../../../assets/images/feminine-nouns-aa-vocabulary.png)
+![Danh từ nữ tính vĩ từ 'ā' - Từ vựng]({{ '/assets/images/feminine-nouns-aa-vocabulary.png' | relative_url }})
 
 ## Danh từ nữ tính vĩ từ 'i'
 {: #feminine-nouns-i}

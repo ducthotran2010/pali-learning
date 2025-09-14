@@ -21,6 +21,7 @@ permalink: /
 - [Danh từ nữ tính vĩ từ 'i'](/pali/feminine-nouns-i/)
 - [Danh từ nữ tính vĩ từ 'ī'](/pali/feminine-nouns-ii/)
 - [Danh từ nữ tính vĩ từ 'u'](/pali/feminine-nouns-u/)
+- [Danh từ nữ tính vĩ từ 'u' bất quy tắc (Mẫu Mātu/Mātar)](/pali/feminine-nouns-u-irregular-matu/)
 
 ---
 

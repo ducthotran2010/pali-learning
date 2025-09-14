@@ -27,6 +27,8 @@ sections:
     anchor: feminine-nouns-ii
   - title: Danh từ nữ tính vĩ từ 'u'
     anchor: feminine-nouns-u
+  - title: Danh từ nữ tính vĩ từ 'u' bất quy tắc (Mẫu Mātu/Mātar)
+    anchor: feminine-nouns-u-irregular-matu
 ---
 
 <div class="content-filters">
@@ -164,6 +166,13 @@ sections:
 {% include pali/feminine-nouns-u/declension.md %}
 
 {% include pali/feminine-nouns-u/vocab.md %}
+
+## Danh từ nữ tính vĩ từ 'u' bất quy tắc (Mẫu Mātu/Mātar)
+{: #feminine-nouns-u-irregular-matu}
+
+{% include pali/feminine-nouns-u-irregular-matu/declension.md %}
+
+{% include pali/feminine-nouns-u-irregular-matu/vocab.md %}
 
 <script>
 document.addEventListener('DOMContentLoaded', function() {

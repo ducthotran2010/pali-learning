@@ -1,7 +1,5 @@
 # Đọc hiểu Pāḷi (Pāḷi Learning)
 
-Tài liệu ngữ pháp và từ vựng Pāḷi với giải thích tiếng Việt - A Pāḷi grammar reference and vocabulary collection with Vietnamese explanations, powered by Jekyll and Docker.
-
 ## 🌐 Live Site
 
 Visit the site at: http://localhost:4000 (when running locally)

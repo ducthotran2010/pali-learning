@@ -1,7 +1,7 @@
 # Site settings
 title: Đọc hiểu Pāḷi (Pāḷi learning)
 description: Tài liệu ngữ pháp và từ vựng Pāḷi với giải thích tiếng Việt
-baseurl: ""
+baseurl: "/pali-learning"
 url: "https://ducthotran2010.github.io"
 
 # Build settings

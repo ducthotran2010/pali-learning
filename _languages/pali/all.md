@@ -15,6 +15,8 @@ sections:
     anchor: masculine-nouns-u-irregular-pitu
   - title: Danh từ nam tính vĩ từ 'u' bất quy tắc (Mẫu Kattu/kattār)
     anchor: masculine-nouns-u-irregular-kattu
+  - title: Danh từ nam tính vĩ từ 'vantu/mantu'
+    anchor: masculine-nouns-vantu-mantu
   - title: Danh từ nam tính vĩ từ 'ū'
     anchor: masculine-nouns-uu
   - title: Danh từ nữ tính vĩ từ 'ā'
@@ -79,6 +81,13 @@ sections:
 {% include pali/masculine-nouns-a/declension.md %}
 
 {% include pali/masculine-nouns-a/vocab.md %}
+
+## Danh từ nam tính vĩ từ 'vantu/mantu'
+{: #masculine-nouns-vantu-mantu}
+
+{% include pali/masculine-nouns-vantu-mantu/declension.md %}
+
+{% include pali/masculine-nouns-vantu-mantu/vocab.md %}
 
 ## Danh từ nam tính vĩ từ 'i'
 {: #masculine-nouns-i}

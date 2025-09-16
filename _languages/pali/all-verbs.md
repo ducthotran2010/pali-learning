@@ -15,6 +15,8 @@ sections:
     anchor: verbs-sattami
   - title: Động từ bất quy tắc ngữ căn 'as'
     anchor: verbs-irregular-as
+  - title: Động từ bất quy tắc ngữ căn 'bhū'
+    anchor: verbs-irregular-bhu
 ---
 
 <div class="filter-buttons">
@@ -104,6 +106,15 @@ sections:
 <div class="declension-content" markdown="1">
 
 {% include pali/verbs-irregular-as/declension.md %}
+
+</div>
+
+## Động từ bất quy tắc ngữ căn 'bhū'
+{: #verbs-irregular-bhu}
+
+<div class="declension-content" markdown="1">
+
+{% include pali/verbs-irregular-bhu/declension.md %}
 
 </div>
 

@@ -4,15 +4,15 @@
 | ---- | --------------------- | ---------------------- |
 | III  | $paca{\color{red}ti}$ | $paca{\color{red}nti}$ |
 | II   | $paca{\color{red}si}$ | $paca{\color{red}tha}$ |
-| I    | $paca{\color{red}mi}$ | $paca{\color{red}ma}$  |
+| I    | $pacā{\color{red}mi}$ | $pacā{\color{red}ma}$  |
 
 ### $\textbf{kiṇati}$ (mua; buys) = $√kī + n\cancel{ā} + a + {\color{red}ti} \ (ī>i;n>ṇ)$
 
 | Cách | Si                    | Sn                     |
 | ---- | --------------------- | ---------------------- |
-| III  | $kiṇa{\color{red}ti}$ | $kiṇa{\color{red}nti}$ |
-| II   | $kiṇa{\color{red}si}$ | $kiṇa{\color{red}tha}$ |
-| I    | $kiṇa{\color{red}mi}$ | $kiṇa{\color{red}ma}$  |
+| III  | $kiṇā{\color{red}ti}$ | $kiṇa{\color{red}nti}$ |
+| II   | $kiṇā{\color{red}si}$ | $kiṇā{\color{red}tha}$ |
+| I    | $kiṇā{\color{red}mi}$ | $kiṇa{\color{red}ma}$  |
 
 ### $\textbf{karoti}$ (làm, thực hiện; does, makes) = $√kar + o + \color{red}ti$
 

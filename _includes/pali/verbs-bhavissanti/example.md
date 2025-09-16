@@ -26,9 +26,9 @@
 
 | Cách | Si                       | Sn                        |
 | ---- | ------------------------ | ------------------------- |
-| III  | $desis{\color{red}sati}$ | $desis{\color{red}santi}$ |
-| II   | $desis{\color{red}sasi}$ | $desis{\color{red}satha}$ |
-| I    | $desis{\color{red}sāmi}$ | $desis{\color{red}sāma}$  |
+| III  | $des{\color{red}issati}$ | $des{\color{red}issanti}$ |
+| II   | $des{\color{red}issasi}$ | $des{\color{red}issatha}$ |
+| I    | $des{\color{red}issāmi}$ | $desis{\color{red}sāma}$  |
 
 ### $\textbf{desayissati}$ (sẽ thuyết giảng; will preach) = $√dis + \cancel{ṇ}ay\cancel{a} + {\color{red}(i)ssati} \ (i > e)$
 

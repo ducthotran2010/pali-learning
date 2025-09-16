@@ -36,3 +36,4 @@ permalink: /
 ## Khác
 
 - [Tổng hợp danh từ]({{ '/pali/all-nouns/' | relative_url }})
+- [Tổng hợp động từ]({{ '/pali/all-verbs/' | relative_url }})

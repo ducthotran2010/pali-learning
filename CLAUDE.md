@@ -4,37 +4,41 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Repository Purpose
 
-This is a Pāḷi language learning repository focused exclusively on Pāḷi grammar declensions (masculine and feminine nouns with various endings), with Vietnamese explanations and English translations.
+This is a Pāḷi language learning repository focused on Pāḷi grammar including noun declensions (masculine and feminine nouns with various endings) and verb conjugations across different tenses and moods, with Vietnamese explanations and English translations.
 
 ## Structure
 
-- `_languages/pali/` - Main Pāḷi grammar pages organized by declension patterns
-- `_includes/pali/` - Reusable components for declension tables and vocabulary
+- `_languages/pali/` - Main Pāḷi grammar pages organized by declension patterns and verb conjugations
+- `_includes/pali/` - Reusable components for declension tables, verb conjugations, and vocabulary
 - `assets/images/` - All images and visual materials for Pāḷi lessons
-- Repository is organized around individual declension patterns as separate sections
-- Each section follows the pattern: Section Page → Declension Table → Vocabulary
+- Repository is organized around individual grammar patterns as separate sections
+- **Noun sections** follow the pattern: Section Page → Declension Table → Vocabulary
+- **Verb sections** follow the pattern: Section Page → Conjugation Table
 
 ## Content Format
 
 - Uses LaTeX math notation for Pāḷi script with color coding:
   - Red text highlights grammatical endings and variations
   - Blue text indicates alternative forms
-- Tables show grammatical cases (cách) with singular (Si) and plural (Sn) forms
+- **Noun tables** show grammatical cases (cách) with singular (Si) and plural (Sn) forms
+- **Verb tables** show conjugation patterns with persons I, II, III and singular/plural forms
+- **Table ordering**: Use III → II → I order for all verb conjugations (not I → II → III)
 - Vocabulary sections use structured lists with Vietnamese-first format: `<li><strong>word</strong> = vietnamese (english); vietnamese2 (english2)</li>`
 - All vocabulary wrapped in `<div style="column-count:2;">` for 2-column layout
-- Section titles use Vietnamese with English explanations: "Danh từ nam tính (Masculine Nouns)"
+- Section titles use Vietnamese with English explanations: "Danh từ nam tính (Masculine Nouns)" or "Thì Hiện Tại (Vattamānā)"
 
 ## Working with This Repository
 
 - Content is primarily in markdown format with embedded LaTeX
-- Changes typically involve updating grammar tables or adding vocabulary
-- Each declension pattern should be treated as a separate section (not combined)
+- Changes typically involve updating grammar tables, verb conjugations, or adding vocabulary
+- Each declension/conjugation pattern should be treated as a separate section (not combined)
 - Irregular patterns should be separated by type (e.g., Pitu/pitar vs Kattu/kattār)
 - Jekyll-based site with MathJax support for LaTeX rendering
 - Vietnamese is the primary language with English explanations in parentheses
 
 ## Section Organization Pattern
 
+### Noun Declensions
 Each declension type should follow this structure:
 1. **Main page**: `_languages/pali/[pattern-name].md`
 2. **Includes directory**: `_includes/pali/[pattern-name]/`
@@ -46,8 +50,22 @@ Example: Regular 'u' endings and irregular patterns are separate sections:
 - `masculine-nouns-u-irregular-pitu` (Pitu/pitar pattern)
 - `masculine-nouns-u-irregular-kattu` (Kattu/kattār pattern)
 
-## Guidelines for Declension Tables
+### Verb Conjugations
+Each verb tense/mood should follow this structure:
+1. **Main page**: `_languages/pali/verbs-[pali-name].md`
+2. **Includes directory**: `_includes/pali/verbs-[pali-name]/`
+3. **Conjugation table**: `declension.md`
 
+**Naming Convention**: Use Pali names with simplified vowels (ā → a, ī → i):
+- `verbs-vattamana` (Present tense - Vattamānā)
+- `verbs-ajjatani` (Aorist tense - Ajjatanī)
+- `verbs-bhavissanti` (Future tense - Bhavissantī)
+- `verbs-pancami` (Imperative mood - Pañcamī)
+- `verbs-sattami` (Optative mood - Sattamī)
+
+## Guidelines for Grammar Tables
+
+### Declension Tables (Nouns)
 When creating or updating Pāḷi declension tables:
 
 ### Accuracy Requirements
@@ -68,6 +86,22 @@ When creating or updating Pāḷi declension tables:
 - Check that all forms match exactly
 - Ensure no extra forms are added beyond what's shown
 - Verify case numbering and combinations (e.g., "3&5" vs separate "3" and "5")
+
+### Conjugation Tables (Verbs)
+When creating or updating Pāḷi verb conjugation tables:
+
+#### Accuracy Requirements
+- **Copy exactly from source**: Match conjugated forms precisely as shown in provided images/references
+- **Person ordering**: Always use III → II → I order (not I → II → III)
+- **Color coding**: Use red for primary endings, blue for alternative forms
+- **LaTeX formatting**: Use consistent `${ending}$` or `${\color{red}ending}$` format
+
+#### Common Patterns
+- **Present tense (Vattamānā)**: Basic root + personal endings
+- **Aorist (Ajjatanī)**: 'a' prefix + root + endings with alternatives in parentheses
+- **Future (Bhavissantī)**: Root + -issa- infix + personal endings
+- **Imperative (Pañcamī)**: Command forms with -tu, -hi endings
+- **Optative (Sattamī)**: Potential forms with -eyya- infix + alternatives in braces
 
 ## Vocabulary Format Requirements
 
@@ -188,6 +222,12 @@ Based on successful implementation, the key requirements are:
 - **Feminine nouns ending in 'ā'**: Use `feminine-nouns-aa` (ā -> double 'a') format for file names and directory names
 - **Masculine nouns ending in 'a'**: Use `masculine-nouns-a` (a -> 'a') format for file names and directory names
 - **Masculine nouns ending in 'ū'**: Use `masculine-nouns-uu` (ū -> double 'u') format for file names and directory names
+- **Verb conjugations**: Use `verbs-[pali-name]` with simplified vowels (ā → a, ī → i):
+  - `verbs-vattamana` (not verbs-present)
+  - `verbs-ajjatani` (not verbs-aorist)
+  - `verbs-bhavissanti` (not verbs-future)
+  - `verbs-pancami` (not verbs-imperative)
+  - `verbs-sattami` (not verbs-optative)
 - **Navigation structure**: Single root index.md at repository root (avoid duplicate pali-specific index files)
 - **DRY Principle**: Remove redundant files and consolidate navigation structure to prevent duplication
 

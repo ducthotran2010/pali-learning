@@ -27,4 +27,4 @@ permalink: /
 
 ## Khác
 
-- [Bảng tổng hợp]({{ '/pali/all/' | relative_url }})
+- [Tổng hợp danh từ]({{ '/pali/all-nouns/' | relative_url }})

@@ -1,7 +1,7 @@
 ---
 layout: language
-title: "Tổng hợp"
-permalink: /pali/all/
+title: "Tổng hợp danh từ"
+permalink: /pali/all-nouns/
 sections:
   - title: Danh từ nam tính vĩ từ 'a'
     anchor: masculine-nouns-a

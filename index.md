@@ -1,6 +1,6 @@
 ---
 layout: language
-title: Ngữ pháp Danh từ và Động từ
+title: Danh từ và Động từ
 permalink: /
 ---
 

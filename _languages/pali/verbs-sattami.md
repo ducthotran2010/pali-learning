@@ -5,3 +5,5 @@ permalink: /pali/verbs-sattami/
 ---
 
 {% include pali/verbs-sattami/declension.md %}
+
+{% include pali/verbs-sattami/example.md %}

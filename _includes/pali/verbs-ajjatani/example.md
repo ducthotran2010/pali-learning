@@ -6,7 +6,7 @@
 | II   | $(a)pac{\color{red}i}, (a)pac{\color{red}o}$ | $(a)pac{\color{red}ittha}$                         |
 | I    | $(a)pac{\color{red}iṃ}$                      | $(a)pac{\color{red}imhā}, (a)pac{\color{red}imha}$ |
 
-### $\textbf{(a)kiṇi/ī}$ (đã mua; bought) = $(\uparrow a \ P.457) \ √kī (ī>i) + n\cancel{ā}(n>ṇ) + \color{red}i/ī$
+### $\textbf{(a)kiṇi/ī}$ (đã mua; bought) = $(\uparrow a \ P.457) \ √kī + n\cancel{ā} + {\color{red}i/ī} \ (ī>i;n>ṇ)$
 
 | Cách | Si                                           | Sn                                                 |
 | ---- | -------------------------------------------- | -------------------------------------------------- |
@@ -22,7 +22,7 @@
 | II   | $(a)kar{\color{red}i}, (a)kar{\color{red}o}$ | $(a)kar{\color{red}ittha}$                         |
 | I    | $(a)kar{\color{red}iṃ}$                      | $(a)kar{\color{red}imhā}, (a)kar{\color{red}imha}$ |
 
-### $\textbf{(a)desesi/ī}$ (đã thuyết giảng; preached) = $(\uparrow a \ P.457) \ √dis (i > e) + \cancel{ṇ}e + (s)\color{red}i/ī$
+### $\textbf{(a)desesi/ī}$ (đã thuyết giảng; preached) = $(\uparrow a \ P.457) \ √dis + \cancel{ṇ}e + (s){\color{red}i/ī} \ (i > e)$
 
 | Cách | Si                                               | Sn                                                     |
 | ---- | ------------------------------------------------ | ------------------------------------------------------ |
@@ -30,7 +30,7 @@
 | II   | $(a)deses{\color{red}i}, (a)deses{\color{red}o}$ | $(a)deses{\color{red}ittha}$                           |
 | I    | $(a)deses{\color{red}iṃ}$                        | $(a)deses{\color{red}imhā}, (a)deses{\color{red}imha}$ |
 
-### $\textbf{(a)desayi/ī}$ (đã thuyết giảng; preached) = $(\uparrow a \ P.457) \ √dis (i > e) + \cancel{ṇ}ay\cancel{a} + \color{red}i/ī$
+### $\textbf{(a)desayi/ī}$ (đã thuyết giảng; preached) = $(\uparrow a \ P.457) \ √dis + \cancel{ṇ}ay\cancel{a} + {\color{red}i/ī} \ (i > e)$
 
 | Cách | Si                                               | Sn                                                     |
 | ---- | ------------------------------------------------ | ------------------------------------------------------ |

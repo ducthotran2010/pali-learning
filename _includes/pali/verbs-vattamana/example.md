@@ -30,7 +30,7 @@
 | II   | $dese{\color{red}si}$ | $dese{\color{red}tha}$ |
 | I    | $dese{\color{red}mi}$ | $dese{\color{red}ma}$  |
 
-### $\textbf{desayati}$ (thuyết giảng; preaches) = $√dis + \cancel{ṇ}ay\cancel{a} + a + {\color{red}ti} \ (i > e)$
+### $\textbf{desayati}$ (thuyết giảng; preaches) = $√dis + \cancel{ṇ}aya + {\color{red}ti} \ (i > e)$
 
 | Cách | Si                      | Sn                       |
 | ---- | ----------------------- | ------------------------ |

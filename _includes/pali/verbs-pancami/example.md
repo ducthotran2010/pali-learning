@@ -30,7 +30,7 @@
 | II   | $dese{\color{red}hi}$ | $dese{\color{red}tha}$ |
 | I    | $dese{\color{red}mi}$ | $dese{\color{red}ma}$  |
 
-### $\textbf{desayatu}$ (hãy thuyết giảng; let preach) = $√dis + \cancel{ṇ}ay\cancel{a} + a + {\color{red}tu} \ (i > e)$
+### $\textbf{desayatu}$ (hãy thuyết giảng; let preach) = $√dis + \cancel{ṇ}aya + {\color{red}tu} \ (i > e)$
 
 | Cách | Si                      | Sn                       |
 | ---- | ----------------------- | ------------------------ |

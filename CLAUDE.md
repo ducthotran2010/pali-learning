@@ -106,30 +106,44 @@ When creating or updating Pāḷi verb conjugation tables:
 #### Example Sections Format
 When creating example sections for verb conjugations, use this standardized format:
 
-**Header Format:**
+**Header Format (by tense):**
+
+*For Aorist (Ajjatanī) - with augment prefix:*
 ```markdown
-### $\textbf{(verb form)}$ (vietnamese; english) = $(\uparrow a \ P.457) \ √root + modifications + endings$
+### $\textbf{(a)paci/ī}$ (đã nấu; cooked) = $(\uparrow a \ P.457) \ √pac + \cancel{a} + {\color{red}i/ī} \ (phonetic changes)$
 ```
 
-**Example:**
+*For Present (Vattamānā) - without augment:*
 ```markdown
-### $\textbf{(a)paci/ī}$ (đã nấu; cooked) = $(\uparrow a \ P.457) \ √pac + \cancel{a} + i/ī$
+### $\textbf{pacati}$ (nấu; cooks) = $√pac + a + {\color{red}ti} \ (phonetic changes)$
+```
+
+*For Future (Bhavissantī) - with -issa- infix:*
+```markdown
+### $\textbf{pacissati}$ (sẽ nấu; will cook) = $√pac + \cancel{a} + {\color{red}(i)ssati}$
 ```
 
 **Key Requirements:**
-- **Verb form**: Use `$\textbf{(a)verb/ī}$` with bold LaTeX formatting
-- **Meanings**: Vietnamese first, semicolon, then English: `(đã nấu; cooked)`
-- **Additional rules**: Show complete morphological breakdown with `(\uparrow <the added letters> \ <the gramma rule number>)`
+- **Verb form**: Use `$\textbf{verbform}$` with bold LaTeX formatting (no parentheses for present/future)
+- **Aorist prefix**: Use `(a)` prefix and `(\uparrow a \ P.457)` reference for aorist tense
+- **Meanings**: Vietnamese first, semicolon, then English: `(đã nấu; cooked)`, `(nấu; cooks)`, `(sẽ nấu; will cook)`
+- **Morphological breakdown**: Show complete analysis with proper notation
 - **Removal rules**: Use `\cancel{}` for dropped morphemes (requires cancel.js extension)
 - **Root notation**: Use `√root` for root forms
-- **Phonetic changes**: Show in parentheses: `(ī>i, n>ṇ)`
+- **Ending coloring**: Use `{\color{red}ending}` with braces around entire colored portion
+- **Phonetic changes**: Show at end in parentheses: `\ (ī>i;n>ṇ)` or `\ (i > e)`
+- **Future tense pattern**: Use `{\color{red}(i)ssati}` notation for -issa- endings with optional 'i'
 
 **Table Format:**
 - Follow III → II → I person ordering
 - Match declension.md pattern ordering
-- Color only the grammatical endings in red: `$(a)pac{\color{red}i}`
-- Keep root and prefix in black
+- Color only the grammatical endings in red: `$pac{\color{red}issati}`
+- Keep root and morphological elements in black
 - Maintain consistent column spacing
+- Use proper endings for each tense:
+  - Present: -ti/-nti, -si/-tha, -mi/-ma
+  - Aorist: -i/-ī/-uṃ/-iṃsu, -i/-o/-ittha, -iṃ/-imhā/-imha
+  - Future: -issati/-issanti, -issasi/-issatha, -issāmi/-issāma
 
 ## Vocabulary Format Requirements
 

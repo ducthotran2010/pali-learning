@@ -10,6 +10,14 @@
 | II   | $asi$        | $attha$      |
 | I    | $asmi, amhi$ | $asma, amha$ |
 
+#### Bất định khứ (Ajjatanī)
+
+| Cách | Si     | Sn        |
+| ---- | ------ | --------- |
+| III  | $āsi$  | $āsuṃ$    |
+| II   | $āsi$  | $āsittha$ |
+| I    | $āsiṃ$ | $āsimhā$  |
+
 #### Mệnh lệnh (Pañcamī)
 
 | Cách | Si           | Sn           |
@@ -25,11 +33,3 @@
 | III  | ${\color{red}siyā}, assa$   | ${\color{red}siyuṃ}, assu, {\color{red}siyaṃsu}$ |
 | II   | ${\color{red}siyā}, assa$   | $assatha$                                        |
 | I    | ${\color{red}siyaṃ}, assaṃ$ | $assāma$                                         |
-
-#### Bất định khứ (Ajjatanī)
-
-| Cách | Si     | Sn        |
-| ---- | ------ | --------- |
-| III  | $āsi$  | $āsuṃ$    |
-| II   | $āsi$  | $āsittha$ |
-| I    | $āsiṃ$ | $āsimhā$  |

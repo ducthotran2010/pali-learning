@@ -1,6 +1,6 @@
 ---
 layout: language
-title: Danh từ (Nouns)
+title: Ngữ pháp Danh từ và Động từ
 permalink: /
 ---
 
@@ -22,6 +22,14 @@ permalink: /
 - [Danh từ nữ tính vĩ từ 'ī']({{ '/pali/feminine-nouns-ii/' | relative_url }})
 - [Danh từ nữ tính vĩ từ 'u']({{ '/pali/feminine-nouns-u/' | relative_url }})
 - [Danh từ nữ tính vĩ từ 'u' bất quy tắc (Mẫu Mātu/Mātar)]({{ '/pali/feminine-nouns-u-irregular-matu/' | relative_url }})
+
+### Động từ (Verbs)
+
+- [Thì Hiện Tại (Vattamānā)]({{ '/pali/verbs-vattamana/' | relative_url }})
+- [Thì Bất Định Khứ (Ajjatanī)]({{ '/pali/verbs-ajjatani/' | relative_url }})
+- [Thì Tương lai (Bhavissantī)]({{ '/pali/verbs-bhavissanti/' | relative_url }})
+- [Lối Mệnh Lệnh (Pañcamī)]({{ '/pali/verbs-pancami/' | relative_url }})
+- [Lối Khả Năng (Sattamī)]({{ '/pali/verbs-sattami/' | relative_url }})
 
 ---
 

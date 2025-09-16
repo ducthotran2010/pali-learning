@@ -13,6 +13,8 @@ sections:
     anchor: verbs-pancami
   - title: Lối Khả Năng (Sattamī)
     anchor: verbs-sattami
+  - title: Động từ bất quy tắc ngữ căn 'as'
+    anchor: verbs-irregular-as
 ---
 
 <div class="filter-buttons">
@@ -93,6 +95,15 @@ sections:
 <div class="vocab-content" markdown="1">
 
 {% include pali/verbs-sattami/example.md %}
+
+</div>
+
+## Động từ bất quy tắc ngữ căn 'as'
+{: #verbs-irregular-as}
+
+<div class="declension-content" markdown="1">
+
+{% include pali/verbs-irregular-as/declension.md %}
 
 </div>
 

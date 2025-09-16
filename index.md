@@ -30,6 +30,7 @@ permalink: /
 - [Thì Tương lai (Bhavissantī)]({{ '/pali/verbs-bhavissanti/' | relative_url }})
 - [Lối Mệnh Lệnh (Pañcamī)]({{ '/pali/verbs-pancami/' | relative_url }})
 - [Lối Khả Năng (Sattamī)]({{ '/pali/verbs-sattami/' | relative_url }})
+- [Động từ bất quy tắc ngữ căn 'as']({{ '/pali/verbs-irregular-as/' | relative_url }})
 
 ---
 

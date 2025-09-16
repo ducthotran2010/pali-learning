@@ -6,7 +6,7 @@
 | II   | $paca{\color{red}si}$ | $paca{\color{red}tha}$ |
 | I    | $pacā{\color{red}mi}$ | $pacā{\color{red}ma}$  |
 
-### $\textbf{kiṇati}$ (mua; buys) = $√kī + n\cancel{ā} + a + {\color{red}ti} \ (ī>i;n>ṇ)$
+### $\textbf{kiṇāti}$ (mua; buys) = $√kī + n\cancel{ā} + a + {\color{red}ti} \ (ī>i;n>ṇ)$
 
 | Cách | Si                    | Sn                     |
 | ---- | --------------------- | ---------------------- |

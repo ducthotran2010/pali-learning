@@ -1,4 +1,4 @@
-### $\textbf{(a)paci/ī}$ (đã nấu; cooked) = $(\uparrow a \ P.457) \ √pac + \cancel{a} + i/ī$
+### $\textbf{(a)paci/ī}$ (đã nấu; cooked) = $(\uparrow a \ P.457) \ √pac + \cancel{a} + \color{red}i/ī$
 
 | Cách | Si                                           | Sn                                                 |
 | ---- | -------------------------------------------- | -------------------------------------------------- |
@@ -6,7 +6,7 @@
 | II   | $(a)pac{\color{red}i}, (a)pac{\color{red}o}$ | $(a)pac{\color{red}ittha}$                         |
 | I    | $(a)pac{\color{red}iṃ}$                      | $(a)pac{\color{red}imhā}, (a)pac{\color{red}imha}$ |
 
-### $\textbf{(a)kiṇi/ī}$ (đã mua; bought) = $(\uparrow a \ P.457) \ √kī (ī>i) + n\cancel{ā}(n>ṇ) + i/ī$
+### $\textbf{(a)kiṇi/ī}$ (đã mua; bought) = $(\uparrow a \ P.457) \ √kī (ī>i) + n\cancel{ā}(n>ṇ) + \color{red}i/ī$
 
 | Cách | Si                                           | Sn                                                 |
 | ---- | -------------------------------------------- | -------------------------------------------------- |
@@ -14,7 +14,7 @@
 | II   | $(a)kiṇ{\color{red}i}, (a)kiṇ{\color{red}o}$ | $(a)kiṇ{\color{red}ittha}$                         |
 | I    | $(a)kiṇ{\color{red}iṃ}$                      | $(a)kiṇ{\color{red}imhā}, (a)kiṇ{\color{red}imha}$ |
 
-### $\textbf{(a)kari/ī}$ (đã làm, thực hiện; did, made) = $(\uparrow a \ P.457) \ √kar + \cancel{o} + i/ī$
+### $\textbf{(a)kari/ī}$ (đã làm, thực hiện; did, made) = $(\uparrow a \ P.457) \ √kar + \cancel{o} + \color{red}i/ī$
 
 | Cách | Si                                           | Sn                                                 |
 | ---- | -------------------------------------------- | -------------------------------------------------- |
@@ -22,7 +22,7 @@
 | II   | $(a)kar{\color{red}i}, (a)kar{\color{red}o}$ | $(a)kar{\color{red}ittha}$                         |
 | I    | $(a)kar{\color{red}iṃ}$                      | $(a)kar{\color{red}imhā}, (a)kar{\color{red}imha}$ |
 
-### $\textbf{(a)desesi/ī}$ (đã thuyết giảng; preached) = $(\uparrow a \ P.457) \ √dis (i > e) + \cancel{ṇ}e + (s)i/ī$
+### $\textbf{(a)desesi/ī}$ (đã thuyết giảng; preached) = $(\uparrow a \ P.457) \ √dis (i > e) + \cancel{ṇ}e + (s)\color{red}i/ī$
 
 | Cách | Si                                               | Sn                                                     |
 | ---- | ------------------------------------------------ | ------------------------------------------------------ |
@@ -30,7 +30,7 @@
 | II   | $(a)deses{\color{red}i}, (a)deses{\color{red}o}$ | $(a)deses{\color{red}ittha}$                           |
 | I    | $(a)deses{\color{red}iṃ}$                        | $(a)deses{\color{red}imhā}, (a)deses{\color{red}imha}$ |
 
-### $\textbf{(a)desayi/ī}$ (đã thuyết giảng; preached) = $(\uparrow a \ P.457) \ √dis (i > e) + \cancel{ṇ}ay\cancel{a} + i/ī$
+### $\textbf{(a)desayi/ī}$ (đã thuyết giảng; preached) = $(\uparrow a \ P.457) \ √dis (i > e) + \cancel{ṇ}ay\cancel{a} + \color{red}i/ī$
 
 | Cách | Si                                               | Sn                                                     |
 | ---- | ------------------------------------------------ | ------------------------------------------------------ |

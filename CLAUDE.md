@@ -103,6 +103,34 @@ When creating or updating Pāḷi verb conjugation tables:
 - **Imperative (Pañcamī)**: Command forms with -tu, -hi endings
 - **Optative (Sattamī)**: Potential forms with -eyya- infix + alternatives in braces
 
+#### Example Sections Format
+When creating example sections for verb conjugations, use this standardized format:
+
+**Header Format:**
+```markdown
+### $\textbf{(verb form)}$ (vietnamese; english) = $(\uparrow a \ P.457) \ √root + modifications + endings$
+```
+
+**Example:**
+```markdown
+### $\textbf{(a)paci/ī}$ (đã nấu; cooked) = $(\uparrow a \ P.457) \ √pac + \cancel{a} + i/ī$
+```
+
+**Key Requirements:**
+- **Verb form**: Use `$\textbf{(a)verb/ī}$` with bold LaTeX formatting
+- **Meanings**: Vietnamese first, semicolon, then English: `(đã nấu; cooked)`
+- **Additional rules**: Show complete morphological breakdown with `(\uparrow <the added letters> \ <the gramma rule number>)`
+- **Removal rules**: Use `\cancel{}` for dropped morphemes (requires cancel.js extension)
+- **Root notation**: Use `√root` for root forms
+- **Phonetic changes**: Show in parentheses: `(ī>i, n>ṇ)`
+
+**Table Format:**
+- Follow III → II → I person ordering
+- Match declension.md pattern ordering
+- Color only the grammatical endings in red: `$(a)pac{\color{red}i}`
+- Keep root and prefix in black
+- Maintain consistent column spacing
+
 ## Vocabulary Format Requirements
 
 - **Header**: Use "### Từ vựng (Vocabulary)"

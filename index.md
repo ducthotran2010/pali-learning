@@ -39,3 +39,4 @@ permalink: /
 
 - [Tổng hợp danh từ]({{ '/pali/all-nouns/' | relative_url }})
 - [Tổng hợp động từ]({{ '/pali/all-verbs/' | relative_url }})
+- [Tổng hợp chia động từ]({{ '/pali/all-verbs-conjugation/' | relative_url }})

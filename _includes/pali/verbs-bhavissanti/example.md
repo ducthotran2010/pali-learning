@@ -14,7 +14,7 @@
 | II   | $kiṇ{\color{red}issasi}$ | $kiṇ{\color{red}issatha}$ |
 | I    | $kiṇ{\color{red}issāmi}$ | $kiṇ{\color{red}issāma}$  |
 
-### $\textbf{karissati}$ (sẽ làm, thực hiện; will do, make) = $√kar + \color{red}(i)ssati$
+### $\textbf{karissati}$ (sẽ làm, thực hiện; will do, make) = $√kar + \cancel{o} + \color{red}(i)ssati$
 
 | Cách | Si                       | Sn                        |
 | ---- | ------------------------ | ------------------------- |
@@ -22,13 +22,13 @@
 | II   | $kar{\color{red}issasi}$ | $kar{\color{red}issatha}$ |
 | I    | $kar{\color{red}issāmi}$ | $kar{\color{red}issāma}$  |
 
-### $\textbf{desissati}$ (sẽ thuyết giảng; will preach) = $√dis + s + {\color{red}(i)ssati} \ (i > e)$
+### $\textbf{desessati}$ (sẽ thuyết giảng; will preach) = $√dis + e + {\color{red}ssati} \ (i > e)$
 
 | Cách | Si                       | Sn                        |
 | ---- | ------------------------ | ------------------------- |
-| III  | $des{\color{red}issati}$ | $des{\color{red}issanti}$ |
-| II   | $des{\color{red}issasi}$ | $des{\color{red}issatha}$ |
-| I    | $des{\color{red}issāmi}$ | $desis{\color{red}sāma}$  |
+| III  | $dese{\color{red}ssati}$ | $dese{\color{red}ssanti}$ |
+| II   | $dese{\color{red}ssasi}$ | $dese{\color{red}ssatha}$ |
+| I    | $dese{\color{red}ssāmi}$ | $dese{\color{red}sāma}$   |
 
 ### $\textbf{desayissati}$ (sẽ thuyết giảng; will preach) = $√dis + \cancel{ṇ}ay\cancel{a} + {\color{red}(i)ssati} \ (i > e)$
 

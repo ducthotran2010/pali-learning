@@ -27,6 +27,10 @@ permalink: /
 
 - [Đại từ nhân xưng]({{ '/pali/pronouns-personal/' | relative_url }})
 
+### Trạng từ
+
+- [Trạng từ]({{ '/pali/adverbs/' | relative_url }})
+
 ### Động từ (Verbs)
 
 - [Thì Hiện Tại (Vattamānā)]({{ '/pali/verbs-vattamana/' | relative_url }})

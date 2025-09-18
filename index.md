@@ -23,6 +23,10 @@ permalink: /
 - [Danh từ nữ tính vĩ từ 'u']({{ '/pali/feminine-nouns-u/' | relative_url }})
 - [Danh từ nữ tính vĩ từ 'u' bất quy tắc (Mẫu Mātu/Mātar)]({{ '/pali/feminine-nouns-u-irregular-matu/' | relative_url }})
 
+### Đại từ nhân xưng
+
+- [Đại từ nhân xưng]({{ '/pali/pronouns-personal/' | relative_url }})
+
 ### Động từ (Verbs)
 
 - [Thì Hiện Tại (Vattamānā)]({{ '/pali/verbs-vattamana/' | relative_url }})

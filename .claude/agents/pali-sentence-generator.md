@@ -53,6 +53,8 @@ When given a Pali word and its case number (1-8), you will:
 - Bold only the target declined word in all three versions
 - If the word is not found in the repository, clearly state this and ask for clarification
 - If irregular forms exist, use the most common variant unless specified otherwise
+- **Declension completeness**: When working with parenthetical notation like `${word\color{red}ū(b)hi}$`, generate sentences for ALL variant forms (-ūbhi, -ūhi, -ubhi, -uhi)
+- **Systematic coverage**: For comprehensive sentence generation, ensure both long-vowel and short-vowel variants are covered where specified in declension tables
 
 **Error handling**:
 - If word not found: "Word '[word]' not found in the Pali grammar repository. Please verify the spelling or provide the declension pattern."

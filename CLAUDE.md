@@ -87,6 +87,13 @@ When creating or updating Pāḷi declension tables:
 - Ensure no extra forms are added beyond what's shown
 - Verify case numbering and combinations (e.g., "3&5" vs separate "3" and "5")
 
+### AI-Generated Content Verification Protocol
+When generating comprehensive sentence examples for declension patterns:
+- **Systematic Coverage Verification**: Before claiming "100% coverage", systematically verify EVERY form specified in the declension table against generated content
+- **Parenthetical Notation Interpretation**: Notation like `${word\color{red}ū(b)hi}$` means ALL four combinations must exist: -ūbhi, -ūhi, -ubhi, -uhi
+- **Missing Form Audit**: When user identifies missing specific forms, conduct comprehensive audit of ALL vocabulary words for similar gaps
+- **Case-by-Case Verification**: For each grammatical case, verify both long-vowel and short-vowel variants exist where specified in declension table
+
 ### Conjugation Tables (Verbs)
 When creating or updating Pāḷi verb conjugation tables:
 

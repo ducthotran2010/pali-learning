@@ -1,5 +1,7 @@
 ### Ví dụ câu sử dụng từ vựng (AI-generated sentence examples)
 
+> Mục đích chính là nhận diện, làm quen với các biến thể chia từ. Tuy nhiên AI không tránh khỏi sai sót trong quá trình tạo câu. 
+
 ---
 
 ## 1. Yāgu (cháo gạo / rice gruel)
@@ -13,6 +15,8 @@
 1. **Yāguyo** bhikkhūnaṃ bhojanaṃ honti. (Các bát cháo gạo là bữa ăn của các vị tỳ-kheo; The rice gruels are the meal of the monks.)
 2. **Yāguyo** rukkhamūle ṭhitā dīyanti. (Các bát cháo gạo được dâng tại gốc cây; The rice gruels are offered at the base of the tree.)
 3. **Yāguyo!** mama mittānaṃ ādāro hotha. (Này các bát cháo gạo! Hãy là sự chăm sóc của bạn tôi; O rice gruels! Be the care of my friends.)
+4. **Yāgū** samaṇānaṃ khādanīyaṃ. (Các bát cháo gạo là thức ăn của các sa-môn; The rice gruels are food for the ascetics.)
+5. **Yāgū!** mama upaṭṭhākaṃ hotha. (Hỡi các bát cháo gạo! Hãy là sự hỗ trợ của tôi; O rice gruels! Be my support.)
 
 **Case 2 (Accusative Singular)**:
 1. Bhikkhu **yāguṃ** pivati. (Vị tỳ-kheo uống bát cháo gạo; The monk drinks the rice gruel.)
@@ -22,7 +26,8 @@
 **Case 2 (Accusative Plural)**:
 1. Bhikkhū **yāgū** paribhuñjanti. (Các vị tỳ-kheo thưởng thức các bát cháo gạo; The monks consume the rice gruels.)
 2. Kammakārā **yāgū** āharanti. (Những người lao động mang các bát cháo gạo; The workers bring the rice gruels.)
-3. Mātaro **yāgū** puttānaṃ dadanti. (Những người mẹ cho các con trai bát cháo gạo; The mothers give rice gruels to their sons.)
+3. Mātaro **yāguyo** puttānaṃ dadanti. (Những người mẹ cho các con trai bát cháo gạo; The mothers give rice gruels to their sons.)
+4. Gahaṭṭhā **yāguyo** paṭiyādenti. (Những người cư sĩ chuẩn bị các bát cháo gạo; The householders prepare the rice gruels.)
 
 **Case 3&5 (Instrumental/Ablative Singular)**:
 1. **Yāguyā** gilāno ārogyaṃ labhati. (Bằng bát cháo gạo, người bệnh lấy lại sức khỏe; By the rice gruel, the sick person regains health.)
@@ -33,6 +38,8 @@
 1. **Yāgūbhi** bhikkhū santappanti. (Với các bát cháo gạo, các vị tỳ-kheo được thỏa mãn; With the rice gruels, the monks are satisfied.)
 2. **Yāgūhi** gilānā ārogyaṃ labhanti. (Từ các bát cháo gạo, những người bệnh lấy lại sức khỏe; From the rice gruels, the sick people regain health.)
 3. **Yāgūhi** mātaro puttānaṃ balaṃ dentī. (Bằng các bát cháo gạo, những người mẹ cho con trai sức mạnh; By the rice gruels, the mothers give strength to their sons.)
+4. **Yāgubhi** samaṇā paribhuñjanti. (Các sa-môn thưởng thức với các bát cháo gạo; The ascetics consume with the rice gruels.)
+5. **Yāguhi** dārakā khādanti. (Trẻ em ăn với các bát cháo gạo; The children eat with the rice gruels.)
 
 **Case 4&6 (Dative/Genitive Singular)**:
 1. **Yāguyā** bhojanaṃ kappati. (Bát cháo gạo được dành cho bữa ăn; The rice gruel is designated for the meal.)
@@ -43,6 +50,8 @@
 1. **Yāgūnaṃ** saddo mahanto hoti. (Tiếng của các bát cháo gạo lớn lao; The sound of the rice gruels is great.)
 2. **Yāgūnaṃ** paṭiyādanaṃ karoti. (Anh ấy chuẩn bị cho các bát cháo gạo; He prepares for the rice gruels.)
 3. **Yāgūnaṃ** āyuṃ vaḍḍhati. (Tuổi thọ của các bát cháo gạo tăng trưởng; The age of the rice gruels increases.)
+4. **Yāgunaṃ** sampatti mahāphalā. (Sự thành tựu của các bát cháo gạo có kết quả lớn; The achievement of the rice gruels has great results.)
+5. **Yāgunaṃ** pariññāya santappati. (Với sự hiểu biết về các bát cháo gạo, anh ấy hài lòng; With understanding of the rice gruels, he is satisfied.)
 
 **Case 7 (Locative Singular)**:
 1. **Yāguyā** bhikkhu nisīdati. (Trên bát cháo gạo, vị tỳ-kheo ngồi xuống; On the rice gruel, the monk sits down.)
@@ -87,6 +96,8 @@
 1. **Kāsūbhi** pathavī chijjati. (Mặt đất bị chia cắt bởi các cái hố; The earth is divided by the pits.)
 2. **Kāsūhi** nikkhamma janā bhayanti. (Ra khỏi các cái hố, mọi người sợ hãi; Having come out from the pits, people are afraid.)
 3. **Kāsubhi** saddho mahanto hoti. (Âm thanh từ các cái hố là lớn; The sound from the pits is great.)
+4. **Kāsuhi** udakaṃ nikkhamati. (Nước chảy ra từ các cái hố; Water flows out from the pits.)
+5. **Kāsūbhi** migā bhayanti. (Các con hươu sợ hãi vì những cái hố; The deer are afraid because of the pits.)
 
 **Case 4&6 (Dative/Genitive Singular)**:
 1. **Kāsuyā** samīpe rukkho ṭhito. (Cây mọc gần cái hố; A tree stands near the pit.)
@@ -141,6 +152,8 @@
 1. **Vijjūbhi** ākāso ālokito hoti. (Bầu trời được chiếu sáng bởi các tia sét; The sky is illuminated by lightning.)
 2. **Vijjūhi** nikkhamitvā vāto vāyati. (Từ các tia sét, gió thổi; From the lightning, wind blows.)
 3. **Vijjubhi** devatā sobhanti. (Các vị thần tỏa sáng với những tia sét; The gods shine with lightning.)
+4. **Vijjuhi** megho gajjati. (Đám mây rền vang với các tia sét; The cloud thunders with the lightning.)
+5. **Vijjūbhi** ratti sobhati. (Đêm tỏa sáng với những tia sét; The night shines with the lightning.)
 
 **Case 4&6 (Dative/Genitive Singular)**:
 1. **Vijjuyā** saddo mahā hoti. (Tiếng sét thật to lớn; The sound of lightning is great.)
@@ -175,6 +188,7 @@
 1. **Rajjū** mahantesu kāyesu dissanti. (Những sợi dây xuất hiện trên các vật lớn; Ropes appear on large objects.)
 2. **Rajjuyo** nāvāya bandhanti. (Các sợi dây buộc vào thuyền; The ropes bind to the boat.)
 3. **Rajjū!** amhe rakkhatha. (Hỡi các sợi dây! Hãy bảo vệ chúng tôi; O ropes! Protect us.)
+4. **Rajjᅫyo** nāvikeh bandhanti. (Các sợi dây được buộc bởi thủy thủ; The ropes are bound by the sailors.)
 
 **Case 2 (Accusative Singular)**:
 1. Bandhane **rajjuṃ** gaṇhāma. (Chúng tôi nắm lấy sợi dây để buộc; We take the rope for binding.)
@@ -182,9 +196,10 @@
 3. Goṇo **rajjuṃ** chindati. (Con bò cắt đứt sợi dây; The ox cuts the rope.)
 
 **Case 2 (Accusative Plural)**:
-1. Ācariyā **rajjū** sikkhanti. (Các thầy giáo học về những sợi dây; The teachers learn about ropes.)
-2. Kammakārā **rajjuyo** bandhanti. (Những người thợ buộc các sợi dây; The workers bind the ropes.)
-3. Nāvikā **rajjū** ākaḍḍhanti. (Các thủy thủ kéo những sợi dây; The sailors pull the ropes.)
+1. Ācariyā **rajjᅫyo** sikkhanti. (Các thầy giáo học về những sợi dây; The teachers learn about ropes.)
+2. Kammakārā **rajjᅫ** bandhanti. (Những người thợ buộc các sợi dây; The workers bind the ropes.)
+3. Nāvikā **rajjuyo** ākaḍḍhanti. (Các thủy thủ kéo những sợi dây; The sailors pull the ropes.)
+4. Manussā **rajjᅫ** gahetvā kammaṃ karonti. (Mọi người nắm các sợi dây và làm việc; People take the ropes and do work.)
 
 **Case 3&5 (Instrumental/Ablative Singular)**:
 1. **Rajjuyā** ghaṭaṃ bandhati. (Anh ấy buộc vò bằng sợi dây; He binds the pot with the rope.)
@@ -195,6 +210,8 @@
 1. **Rajjūbhi** nāvaṃ bandhanti. (Họ buộc thuyền bằng các sợi dây; They bind the boat with ropes.)
 2. **Rajjūhi** muktvā sabbakiccaṃ karoti. (Giải thoát khỏi các sợi dây, anh ấy làm mọi việc; Released from the ropes, he does all work.)
 3. **Rajjubhi** gehāni bandhanti. (Họ buộc các ngôi nhà bằng dây; They bind the houses with ropes.)
+4. **Rajjuhi** kammaṃ karoti. (Anh ấy làm việc với các sợi dây; He does work with the ropes.)
+5. **Rajjūbhi** sattā bandhanti. (Chúng sinh buộc vào các sợi dây; Beings bind to the ropes.)
 
 **Case 4&6 (Dative/Genitive Singular)**:
 1. **Rajjuyā** diṭṭhi suddhi hoti. (Sự thanh tịnh của sợi dây là thiêng liêng; The purity of the rope is divine.)
@@ -226,9 +243,10 @@
 3. **Daddu** dukkhaṃ janeti. (Bệnh hũi gây ra đau khổ; Eczema causes suffering.)
 
 **Case 1&8 (Nominative/Vocative Plural)**:
-1. **Daddū** kuṭilā dissanti. (Những vết bệnh hũi xuất hiện xấu xí; The eczema patches appear unsightly.)
+1. **Daddᅫ** kuṭilā dissanti. (Những vết bệnh hũi xuất hiện xấu xí; The eczema patches appear unsightly.)
 2. **Dadduyo** rogino pīḷenti. (Các vết bệnh hũi làm khổ người bệnh; The eczema patches torment the sick person.)
 3. **Daddū!** mā no viheṭhayatha. (Hỡi các vết bệnh hũi! Đừng làm chúng tôi phiền não; O eczema patches! Do not trouble us.)
+4. **Dadduyo** āturānaM sarīresu uppajjanti. (Các vết bệnh hũi phát sinh trên cơ thể của bệnh nhân; The eczema patches arise on the bodies of patients.)
 
 **Case 2 (Accusative Singular)**:
 1. Bhisakko **dadduṃ** chindati. (Bác sĩ loại bỏ bệnh hũi; The doctor removes the eczema.)
@@ -236,9 +254,10 @@
 3. Vejjo **dadduṃ** tikicchati. (Thầy thuốc chữa trị bệnh hũi; The physician treats the eczema.)
 
 **Case 2 (Accusative Plural)**:
-1. Āturā **daddū** paṭikkhipanti. (Những bệnh nhân từ chối bệnh hũi; The patients reject the eczema.)
-2. Bhisakko **dadduyo** tikicchati. (Bác sĩ chữa trị các vết bệnh hũi; The doctor treats the eczema patches.)
-3. Vejjā **daddū** nāsenti. (Các thầy thuốc tiêu diệt những vết bệnh hũi; The physicians destroy the eczema patches.)
+1. Āturā **dadduyo** paṭikkhipanti. (Những bệnh nhân từ chối bệnh hũi; The patients reject the eczema.)
+2. Bhisakko **daddᅫ** tikicchati. (Bác sĩ chữa trị các vết bệnh hũi; The doctor treats the eczema patches.)
+3. Vejjā **dadduyo** nāsenti. (Các thầy thuốc tiêu diệt những vết bệnh hũi; The physicians destroy the eczema patches.)
+4. Osadhaṃ **daddᅫ** ghámsanti. (Thuốc xỏa bỏ các vết bệnh hũi; Medicine rubs away the eczema patches.)
 
 **Case 3&5 (Instrumental/Ablative Singular)**:
 1. **Dadduyā** dukkhaṃ uppajjati. (Bởi bệnh hũi, khổ đau phát sinh; By eczema, suffering arises.)
@@ -248,7 +267,9 @@
 **Case 3&5 (Instrumental/Ablative Plural)**:
 1. **Daddūbhi** pīḷito hoti. (Anh ấy bị tra tấn bởi những vết bệnh hũi; He is tortured by the eczema patches.)
 2. **Daddūhi** muktvā ārogyaṃ labhati. (Thoát khỏi các vết bệnh hũi, anh ấy lấy lại sức khỏe; Released from the eczema patches, he regains health.)
-3. **Daddbhi** kilissitaṃ sarīraṃ. (Cơ thể bị ô uế bởi những vết bệnh hũi; The body is defiled by the eczema patches.)
+3. **Daddubhi** kilissitaṃ sarīraṃ. (Cơ thể bị ô uế bởi những vết bệnh hũi; The body is defiled by the eczema patches.)
+4. **Dadduhi** pīḷanā hoti. (Có sự tra tấn từ những vết bệnh hũi; There is torment from the eczema patches.)
+5. **Daddūbhi** dukkhaṃ uppajjati. (Khổ đau phát sinh từ những vết bệnh hũi; Suffering arises from the eczema patches.)
 
 **Case 4&6 (Dative/Genitive Singular)**:
 1. **Dadduyā** niggahaṃ karoti. (Anh ấy trị liệu bệnh hũi; He treats the eczema.)
@@ -302,7 +323,9 @@
 **Case 3&5 (Instrumental/Ablative Plural)**:
 1. **Kacchūbhi** pīḷitassa niddā na hoti. (Của người bị tra tấn bởi các cơn ngứa, không có giấc ngủ; For the one tormented by itches, there is no sleep.)
 2. **Kacchūhi** vigatassa santī hoti. (Của người thoát khỏi các cơn ngứa, có sự bình an; For the one free from itches, there is peace.)
-3. **Kacchibhi** niddā vighāyati. (Giấc ngủ bị cản trở bởi các cơn ngứa; Sleep is obstructed by the itches.)
+3. **Kacchubhi** niddā vighāyati. (Giấc ngủ bị cản trở bởi các cơn ngứa; Sleep is obstructed by the itches.)
+4. **Kacchuhi** vedanā uppajjati. (Cảm giác đau phát sinh từ các cơn ngứa; Pain sensation arises from the itches.)
+5. **Kacchūbhi** dukkhaṃ janeti. (Đau khổ được tạo ra bởi các cơn ngứa; Suffering is created by the itches.)
 
 **Case 4&6 (Dative/Genitive Singular)**:
 1. **Kacchuyā** tikicchāya osadhaṃ deti. (Anh ấy cho thuốc để chữa trị cơn ngứa; He gives medicine for treating the itch.)
@@ -356,7 +379,9 @@
 **Case 3&5 (Instrumental/Ablative Plural)**:
 1. **Kaṇerūbhi** saddhiṃ vanacāraṃ karoti. (Anh ấy lang thang rừng cùng với các con voi cái; He does forest wandering together with the she-elephants.)
 2. **Kaṇerūhi** muktvā gāmaṃ gacchati. (Thoát khỏi các con voi cái, anh ấy đi đến làng; Released from the she-elephants, he goes to the village.)
-3. **Kaṇeribhi** balavatā yuttā honti. (Được trang bị bởi các con voi cái mạnh mẽ; They are equipped with powerful she-elephants.)
+3. **Kaṇerubhi** balavatā yuttā honti. (Được trang bị bởi các con voi cái mạnh mẽ; They are equipped with powerful she-elephants.)
+4. **Kaṇeruhi** saddhiṃ carati. (Anh ấy đi cùng với các con voi cái; He travels together with the she-elephants.)
+5. **Kaṇerūbhi** vanaṃ rakkhanti. (Họ bảo vệ rừng với các con voi cái; They protect the forest with the she-elephants.)
 
 **Case 4&6 (Dative/Genitive Singular)**:
 1. **Kaṇeruyā** bhojanaṃ deti. (Anh ấy cho con voi cái thức ăn; He gives food to the she-elephant.)
@@ -410,7 +435,9 @@
 **Case 3&5 (Instrumental/Ablative Plural)**:
 1. **Dhātūbhi** sarīraṃ saṅghaṭitaṃ. (Cơ thể được tạo thành bởi các nguyên tố; The body is composed of the elements.)
 2. **Dhātūhi** muktvā arahattaṃ pāpuṇāti. (Thoát khỏi các nguyên tố, anh ấy đạt được A-la-hán; Released from the elements, he attains arahatship.)
-3. **Dhātibhi** yuttaṃ sarīraṃ. (Cơ thể được kết hợp với các nguyên tố; The body is connected with the elements.)
+3. **Dhātubhi** yuttaṃ sarīraṃ. (Cơ thể được kết hợp với các nguyên tố; The body is connected with the elements.)
+4. **Dhātuhi** loko saṅghaṭito. (Thế giới được tạo thành từ các nguyên tố; The world is composed of the elements.)
+5. **Dhātūbhi** khandhā paṭṭhitā. (Các uẩn được thiết lập bởi các nguyên tố; The aggregates are established by the elements.)
 
 **Case 4&6 (Dative/Genitive Singular)**:
 1. **Dhātuyā** vipassanāya upaṭṭhāti. (Anh ấy chuẩn bị cho sự quán sát nguyên tố; He prepares for the observation of the element.)
@@ -465,6 +492,8 @@
 1. **Sassūbhi** ānisaṃsitā kulakammāni vaḍḍhanti. (Được lợi ích từ các bà mẹ chồng, các công việc gia đình tăng trưởng; Benefited by the mothers-in-law, family affairs prosper.)
 2. **Sassūhi** anusāsitā puttā sīlena sobhanti. (Được dạy dỗ bởi các bà mẹ chồng, các con trai tỏa sáng với đức hạnh; Instructed by the mothers-in-law, the sons shine with virtue.)
 3. **Sassubhi** rakkhitā kulāni unnati labhanti. (Được bảo vệ bởi các bà mẹ chồng, các gia đình đạt được thịnh vượng; Protected by the mothers-in-law, the families gain prosperity.)
+4. **Sassuhi** pūjitā puttā dhanaṃ labhanti. (Được tôn vinh bởi các bà mẹ chồng, các con trai đạt được tài sản; Honored by the mothers-in-law, the sons gain wealth.)
+5. **Sassūbhi** sevitā gharā sobhanti. (Được phục vụ bởi các bà mẹ chồng, các ngôi nhà tỏa sáng; Served by the mothers-in-law, the houses shine.)
 
 **Case 4&6 (Dative/Genitive Singular)**:
 1. **Sassuyā** dānaṃ katvā puññaṃ vaḍḍheti. (Làm bố thí cho mẹ chồng, anh ấy tăng trưởng công đức; Making donations to the mother-in-law, he increases merit.)

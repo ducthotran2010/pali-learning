@@ -10,6 +10,8 @@
 | II   | $ho\color{red}si$ | $ho\color{red}tha$ |
 | I    | $ho\color{red}mi$ | $ho\color{red}ma$  |
 
+> $\textbf{hoti}$ (trở thành, tồn tại; becomes, exists).
+
 #### Bất định khứ (Ajjatanī)
 
 | Cách | Si               | Sn                   |
@@ -19,8 +21,6 @@
 | I    | $ahosiṃ$, $ahuṃ$ | $ahosimha$, $ahumha$ |
 
 > $\textbf{ahosi}$ (đã trở thành, tồn tại; became, existed).
-
-> $\textbf{hoti}$ (trở thành, tồn tại; becomes, exists).
 
 #### Mệnh lệnh (Pañcamī)
 

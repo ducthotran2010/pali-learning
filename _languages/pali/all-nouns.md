@@ -29,6 +29,8 @@ sections:
     anchor: feminine-nouns-u
   - title: Danh từ nữ tính vĩ từ 'u' bất quy tắc (Mẫu Mātu/Mātar)
     anchor: feminine-nouns-u-irregular-matu
+  - title: Danh từ nữ tính vĩ từ 'vantu/mantu'
+    anchor: feminine-nouns-vantu-mantu
 ---
 
 <div class="content-filters">
@@ -175,6 +177,13 @@ sections:
 {% include pali/feminine-nouns-u-irregular-matu/declension.md %}
 
 {% include pali/feminine-nouns-u-irregular-matu/vocab.md %}
+
+## Danh từ nữ tính vĩ từ 'vantu/mantu'
+{: #feminine-nouns-vantu-mantu}
+
+{% include pali/feminine-nouns-vantu-mantu/declension.md %}
+
+{% include pali/feminine-nouns-vantu-mantu/vocab.md %}
 
 <script>
 document.addEventListener('DOMContentLoaded', function() {

@@ -22,6 +22,7 @@ permalink: /
 - [Danh từ nữ tính vĩ từ 'ī']({{ '/pali/feminine-nouns-ii/' | relative_url }})
 - [Danh từ nữ tính vĩ từ 'u']({{ '/pali/feminine-nouns-u/' | relative_url }})
 - [Danh từ nữ tính vĩ từ 'u' bất quy tắc (Mẫu Mātu/Mātar)]({{ '/pali/feminine-nouns-u-irregular-matu/' | relative_url }})
+- [Danh từ nữ tính vĩ từ 'vantu/mantu']({{ '/pali/feminine-nouns-vantu-mantu/' | relative_url }})
 
 ### Đại từ nhân xưng
 

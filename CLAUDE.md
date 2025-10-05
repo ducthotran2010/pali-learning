@@ -11,9 +11,14 @@ This is a Pāḷi language learning repository focused on Pāḷi grammar includ
 - `_languages/pali/` - Main Pāḷi grammar pages organized by declension patterns and verb conjugations
 - `_includes/pali/` - Reusable components for declension tables, verb conjugations, and vocabulary
 - `assets/images/` - All images and visual materials for Pāḷi lessons
+- `.claude/docs/` - Technical documentation for development workflows
 - Repository is organized around individual grammar patterns as separate sections
 - **Noun sections** follow the pattern: Section Page → Declension Table → Vocabulary
 - **Verb sections** follow the pattern: Section Page → Conjugation Table
+
+## Documentation
+
+- **Print Styling**: See [.claude/docs/print-styling.md](.claude/docs/print-styling.md) for complete print CSS configuration, including page layout, table styling, hidden/visible elements, and testing procedures
 
 ## Content Format
 
@@ -154,7 +159,7 @@ When creating example sections for verb conjugations, use this standardized form
 
 ## Vocabulary Format Requirements
 
-- **Header**: Use "### Từ vựng (Vocabulary)"
+- **Header**: Use ""
 - **Structure**: Always wrap vocabulary in HTML structure:
   ```html
   <div style="column-count:2;">

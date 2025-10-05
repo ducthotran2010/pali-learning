@@ -24,6 +24,10 @@ permalink: /
 - [Danh từ nữ tính vĩ từ 'u' bất quy tắc (Mẫu Mātu/Mātar)]({{ '/pali/feminine-nouns-u-irregular-matu/' | relative_url }})
 - [Danh từ nữ tính vĩ từ 'vantu/mantu']({{ '/pali/feminine-nouns-vantu-mantu/' | relative_url }})
 
+### Danh từ trung tính (Neuter Nouns)
+
+- [Danh từ trung tính vĩ từ 'a']({{ '/pali/neuter-nouns-a/' | relative_url }})
+
 ### Đại từ nhân xưng
 
 - [Đại từ nhân xưng]({{ '/pali/pronouns-personal/' | relative_url }})

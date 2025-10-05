@@ -31,6 +31,8 @@ sections:
     anchor: feminine-nouns-u-irregular-matu
   - title: Danh từ nữ tính vĩ từ 'vantu/mantu'
     anchor: feminine-nouns-vantu-mantu
+  - title: Danh từ trung tính vĩ từ 'a'
+    anchor: neuter-nouns-a
 ---
 
 <div class="content-filters">
@@ -184,6 +186,13 @@ sections:
 {% include pali/feminine-nouns-vantu-mantu/declension.md %}
 
 {% include pali/feminine-nouns-vantu-mantu/vocab.md %}
+
+## Danh từ trung tính vĩ từ 'a'
+{: #neuter-nouns-a}
+
+{% include pali/neuter-nouns-a/declension.md %}
+
+{% include pali/neuter-nouns-a/vocab.md %}
 
 <script>
 document.addEventListener('DOMContentLoaded', function() {

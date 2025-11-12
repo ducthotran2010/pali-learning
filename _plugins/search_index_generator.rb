@@ -251,13 +251,25 @@ module Jekyll
     sections_updated = search_config[:sections]
     old_data = search_config[:old_data]
 
-    # Write search-data.json
+    # Write search-data.json to build directory (_site/assets)
     output_dir = File.join(site.dest, 'assets')
     FileUtils.mkdir_p(output_dir)
     output_file = File.join(output_dir, 'search-data.json')
 
     File.write(output_file, JSON.pretty_generate(search_data))
     puts "  💾 Search index written to: #{output_file}"
+
+    # Only write to source directory in CI/production (prevents regeneration loop in dev)
+    unless ENV['JEKYLL_ENV'] == 'development'
+      source_output_dir = File.join(site.source, 'assets')
+      FileUtils.mkdir_p(source_output_dir)
+      source_output_file = File.join(source_output_dir, 'search-data.json')
+
+      File.write(source_output_file, JSON.pretty_generate(search_data))
+      puts "  💾 Search index also written to: #{source_output_file} (CI mode)"
+    else
+      puts "  ℹ️  Skipping source directory write in development mode (prevents regeneration loop)"
+    end
 
     # Write summary for GitHub Actions
     summary = {

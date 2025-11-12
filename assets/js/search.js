@@ -8,9 +8,12 @@
 
   let searchData = [];
   let searchIndex = null;
+  let normalizedData = [];
+  let currentLang = 'all'; // Current language filter: 'all', 'pali', 'vi', 'en'
 
-  // Diacritic mapping for Pāḷi characters
+  // Diacritic mapping for Pāḷi and Vietnamese characters
   const diacriticMap = {
+    // Pāḷi diacritics
     'ā': 'a', 'ī': 'i', 'ū': 'u',
     'ṃ': 'm', 'ṁ': 'm',
     'ñ': 'n', 'ṅ': 'n', 'ṇ': 'n',
@@ -20,14 +23,43 @@
     'Ṃ': 'M', 'Ṁ': 'M',
     'Ñ': 'N', 'Ṅ': 'N', 'Ṇ': 'N',
     'Ḷ': 'L',
-    'Ṭ': 'T', 'Ḍ': 'D'
+    'Ṭ': 'T', 'Ḍ': 'D',
+    // Vietnamese diacritics
+    'à': 'a', 'á': 'a', 'ả': 'a', 'ã': 'a', 'ạ': 'a',
+    'ă': 'a', 'ằ': 'a', 'ắ': 'a', 'ẳ': 'a', 'ẵ': 'a', 'ặ': 'a',
+    'â': 'a', 'ầ': 'a', 'ấ': 'a', 'ẩ': 'a', 'ẫ': 'a', 'ậ': 'a',
+    'è': 'e', 'é': 'e', 'ẻ': 'e', 'ẽ': 'e', 'ẹ': 'e',
+    'ê': 'e', 'ề': 'e', 'ế': 'e', 'ể': 'e', 'ễ': 'e', 'ệ': 'e',
+    'ì': 'i', 'í': 'i', 'ỉ': 'i', 'ĩ': 'i', 'ị': 'i',
+    'ò': 'o', 'ó': 'o', 'ỏ': 'o', 'õ': 'o', 'ọ': 'o',
+    'ô': 'o', 'ồ': 'o', 'ố': 'o', 'ổ': 'o', 'ỗ': 'o', 'ộ': 'o',
+    'ơ': 'o', 'ờ': 'o', 'ớ': 'o', 'ở': 'o', 'ỡ': 'o', 'ợ': 'o',
+    'ù': 'u', 'ú': 'u', 'ủ': 'u', 'ũ': 'u', 'ụ': 'u',
+    'ư': 'u', 'ừ': 'u', 'ứ': 'u', 'ử': 'u', 'ữ': 'u', 'ự': 'u',
+    'ỳ': 'y', 'ý': 'y', 'ỷ': 'y', 'ỹ': 'y', 'ỵ': 'y',
+    'đ': 'd',
+    // Uppercase Vietnamese
+    'À': 'A', 'Á': 'A', 'Ả': 'A', 'Ã': 'A', 'Ạ': 'A',
+    'Ă': 'A', 'Ằ': 'A', 'Ắ': 'A', 'Ẳ': 'A', 'Ẵ': 'A', 'Ặ': 'A',
+    'Â': 'A', 'Ầ': 'A', 'Ấ': 'A', 'Ẩ': 'A', 'Ẫ': 'A', 'Ậ': 'A',
+    'È': 'E', 'É': 'E', 'Ẻ': 'E', 'Ẽ': 'E', 'Ẹ': 'E',
+    'Ê': 'E', 'Ề': 'E', 'Ế': 'E', 'Ể': 'E', 'Ễ': 'E', 'Ệ': 'E',
+    'Ì': 'I', 'Í': 'I', 'Ỉ': 'I', 'Ĩ': 'I', 'Ị': 'I',
+    'Ò': 'O', 'Ó': 'O', 'Ỏ': 'O', 'Õ': 'O', 'Ọ': 'O',
+    'Ô': 'O', 'Ồ': 'O', 'Ố': 'O', 'Ổ': 'O', 'Ỗ': 'O', 'Ộ': 'O',
+    'Ơ': 'O', 'Ờ': 'O', 'Ớ': 'O', 'Ở': 'O', 'Ỡ': 'O', 'Ợ': 'O',
+    'Ù': 'U', 'Ú': 'U', 'Ủ': 'U', 'Ũ': 'U', 'Ụ': 'U',
+    'Ư': 'U', 'Ừ': 'U', 'Ứ': 'U', 'Ử': 'U', 'Ữ': 'U', 'Ự': 'U',
+    'Ỳ': 'Y', 'Ý': 'Y', 'Ỷ': 'Y', 'Ỹ': 'Y', 'Ỵ': 'Y',
+    'Đ': 'D'
   };
 
   /**
    * Remove diacritics from text for matching
    */
   function removeDiacritics(text) {
-    return text.replace(/[āīūṃṁñṅṇḷṭḍĀĪŪṂṀÑṄṆḶṬḌ]/g, char => diacriticMap[char] || char);
+    // Use String.prototype.normalize to decompose characters, then remove combining marks
+    return text.normalize('NFD').replace(/[\u0300-\u036f]/g, '').replace(/[āīūṃṁñṅṇḷṭḍĐđĂăÂâÊêÔôƠơƯư]/g, char => diacriticMap[char] || char);
   }
 
   /**
@@ -57,57 +89,113 @@
   }
 
   /**
-   * Search vocabulary
+   * Get search keys based on current language filter
+   */
+  function getSearchKeys() {
+    if (currentLang === 'all') {
+      return ['pali_normalized', 'vi_normalized', 'en_normalized'];
+    } else if (currentLang === 'pali') {
+      return ['pali_normalized'];
+    } else if (currentLang === 'vi') {
+      return ['vi_normalized'];
+    } else if (currentLang === 'en') {
+      return ['en_normalized'];
+    }
+    return ['pali_normalized', 'vi_normalized', 'en_normalized']; // fallback
+  }
+
+  /**
+   * Get placeholder text based on current language filter
+   */
+  function getPlaceholderText() {
+    if (currentLang === 'all') {
+      return 'Tìm từ vựng Pāḷi, tiếng Việt hoặc tiếng Anh...';
+    } else if (currentLang === 'pali') {
+      return 'Tìm từ vựng Pāḷi...';
+    } else if (currentLang === 'vi') {
+      return 'Tìm từ vựng tiếng Việt...';
+    } else if (currentLang === 'en') {
+      return 'Tìm từ vựng tiếng Anh...';
+    }
+    return 'Tìm từ vựng Pāḷi, tiếng Việt hoặc tiếng Anh...'; // fallback
+  }
+
+  /**
+   * Search vocabulary with fuzzy matching using Fuse.js
    */
   function search(query) {
-    if (!query || query.trim().length < 1) {
+    if (!query || query.trim().length < 2) {
       return [];
     }
 
-    const normalizedQuery = normalize(query.trim());
-    const results = [];
-
-    for (const entry of searchData) {
-      let score = 0;
-      let matchType = '';
-
-      // Check Pāḷi word (highest priority)
-      const normalizedPali = normalize(entry.pali);
-      if (normalizedPali === normalizedQuery) {
-        score = 100; // Exact match
-        matchType = 'pali-exact';
-      } else if (normalizedPali.startsWith(normalizedQuery)) {
-        score = 90; // Starts with
-        matchType = 'pali-start';
-      } else if (normalizedPali.includes(normalizedQuery)) {
-        score = 80; // Contains
-        matchType = 'pali-contains';
-      }
-
-      // Check Vietnamese meaning
-      const normalizedVi = normalize(entry.vi);
-      if (normalizedVi.includes(normalizedQuery)) {
-        score = Math.max(score, 60);
-        matchType = matchType || 'vi';
-      }
-
-      // Check English meaning
-      const normalizedEn = normalize(entry.en);
-      if (normalizedEn.includes(normalizedQuery)) {
-        score = Math.max(score, 50);
-        matchType = matchType || 'en';
-      }
-
-      if (score > 0) {
-        results.push({
-          ...entry,
-          score,
-          matchType
-        });
-      }
+    if (!normalizedData || normalizedData.length === 0) {
+      return [];
     }
 
-    // Sort by score (descending)
+    // Normalize query for diacritic-insensitive search
+    const normalizedQuery = normalize(query.trim());
+
+    // Get search keys based on selected language
+    const searchKeys = getSearchKeys();
+
+    // Create new Fuse instance with current language keys
+    const fuseOptions = {
+      keys: searchKeys,
+      threshold: 0.5,
+      distance: 200,
+      includeScore: true,
+      minMatchCharLength: 1,
+      shouldSort: false,
+      ignoreLocation: true,
+      useExtendedSearch: false,
+      findAllMatches: true,
+      isCaseSensitive: false
+    };
+
+    const fuse = new Fuse(normalizedData, fuseOptions);
+
+    // Perform fuzzy search with Fuse.js
+    const fuseResults = fuse.search(normalizedQuery);
+
+    // Transform Fuse.js results to our format
+    const results = fuseResults.map(result => {
+      const item = result.item;
+      const fuseScore = result.score; // 0.0 = perfect match, 1.0 = no match
+
+      // Calculate our custom score for ranking
+      // Prefer exact matches and Pāḷi word matches
+      let customScore = 100 - (fuseScore * 100);
+
+      const normalizedPali = normalize(item.pali);
+      const normalizedVi = normalize(item.vi);
+      const normalizedEn = normalize(item.en);
+
+      // Boost exact matches
+      if (normalizedPali === normalizedQuery) {
+        customScore += 50; // Exact Pāḷi match bonus
+      } else if (normalizedVi === normalizedQuery) {
+        customScore += 30; // Exact Vietnamese match bonus
+      } else if (normalizedEn === normalizedQuery) {
+        customScore += 20; // Exact English match bonus
+      }
+
+      // Boost prefix matches
+      if (normalizedPali.startsWith(normalizedQuery)) {
+        customScore += 25;
+      } else if (normalizedVi.startsWith(normalizedQuery)) {
+        customScore += 15;
+      } else if (normalizedEn.startsWith(normalizedQuery)) {
+        customScore += 10;
+      }
+
+      return {
+        ...item,
+        score: customScore,
+        fuseScore: fuseScore
+      };
+    });
+
+    // Sort by custom score (descending)
     results.sort((a, b) => b.score - a.score);
 
     // Limit to top 20 results
@@ -178,10 +266,37 @@
       const input = container.querySelector('.pali-search-input');
       const resultsContainer = container.querySelector('.pali-search-results');
       const clearBtn = container.querySelector('.pali-search-clear');
+      const langBtns = container.querySelectorAll('.lang-btn');
 
       if (!input || !resultsContainer) return;
 
       let debounceTimer;
+
+      // Language filter button handlers
+      langBtns.forEach(btn => {
+        btn.addEventListener('click', () => {
+          // Update active state
+          langBtns.forEach(b => b.classList.remove('active'));
+          btn.classList.add('active');
+
+          // Update current language
+          currentLang = btn.dataset.lang;
+
+          // Update placeholder text
+          input.placeholder = getPlaceholderText();
+
+          // Re-trigger search if there's a query (minimum 2 characters)
+          const query = input.value.trim();
+          if (query.length >= 2) {
+            const results = search(query);
+            displayResults(results, query, resultsContainer);
+          } else if (query.length > 0) {
+            // Clear results if query is too short
+            resultsContainer.classList.remove('visible');
+            resultsContainer.innerHTML = '';
+          }
+        });
+      });
 
       // Search on input
       input.addEventListener('input', (e) => {
@@ -265,6 +380,12 @@
    * Load search data
    */
   function loadSearchData() {
+    // Check if Fuse.js is available
+    if (typeof Fuse === 'undefined') {
+      setTimeout(loadSearchData, 100);
+      return;
+    }
+
     const baseUrl = document.querySelector('meta[name="baseurl"]')?.content || '';
     const dataUrl = `${baseUrl}/assets/search-data.json`;
 
@@ -277,7 +398,31 @@
       })
       .then(data => {
         searchData = data;
-        console.log(`✅ Loaded ${searchData.length} vocabulary entries`);
+
+        // Normalize search data for diacritic-insensitive fuzzy search
+        normalizedData = data.map(item => ({
+          ...item,
+          pali_normalized: normalize(item.pali),
+          vi_normalized: normalize(item.vi),
+          en_normalized: normalize(item.en)
+        }));
+
+        // Initialize Fuse.js with fuzzy search options
+        const fuseOptions = {
+          keys: ['pali_normalized', 'vi_normalized', 'en_normalized'],
+          threshold: 0.5,              // Loose matching (0.0 = exact, 1.0 = match anything)
+          distance: 200,               // Character distance for fuzzy matches
+          includeScore: true,          // Include match score in results
+          minMatchCharLength: 1,       // Require at least 1 character
+          shouldSort: false,           // We'll do custom sorting
+          ignoreLocation: true,        // Match anywhere in string
+          useExtendedSearch: false,
+          findAllMatches: true,
+          isCaseSensitive: false       // Case insensitive
+        };
+
+        searchIndex = new Fuse(normalizedData, fuseOptions);
+        console.log(`✅ Loaded ${searchData.length} vocabulary entries with fuzzy search`);
         initSearchUI();
       })
       .catch(error => {

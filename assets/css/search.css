@@ -17,7 +17,7 @@
 
 .pali-search-input {
   width: 100%;
-  padding: 12px 45px 12px 40px;
+  padding: 12px 45px 12px 165px;
   font-size: 16px;
   border: 2px solid #ddd;
   border-radius: 8px;
@@ -36,11 +36,40 @@
 }
 
 .pali-search-icon {
+  display: none; /* Hidden since we have language filter buttons */
+}
+
+.pali-search-lang-filter {
   position: absolute;
   left: 12px;
+  display: flex;
+  gap: 4px;
+  padding-right: 8px;
+  border-right: 1px solid #ddd;
+  z-index: 1;
+}
+
+.lang-btn {
+  padding: 3px 8px;
+  font-size: 11px;
+  font-weight: 600;
+  border: 1px solid #ddd;
+  background: #f5f5f5;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: all 0.2s;
   color: #666;
-  pointer-events: none;
-  font-size: 18px;
+  white-space: nowrap;
+}
+
+.lang-btn:hover {
+  background: #e0e0e0;
+}
+
+.lang-btn.active {
+  background: #007bff;
+  color: white;
+  border-color: #007bff;
 }
 
 .pali-search-clear {
@@ -191,6 +220,17 @@ mark {
 
   .pali-search-input {
     font-size: 16px; /* Prevent zoom on iOS */
+    padding-left: 145px; /* Slightly less padding for mobile */
+  }
+
+  .pali-search-lang-filter {
+    gap: 2px;
+    padding-right: 6px;
+  }
+
+  .lang-btn {
+    padding: 2px 6px;
+    font-size: 10px;
   }
 
   .pali-search-results {

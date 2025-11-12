@@ -1,0 +1,242 @@
+/**
+ * Pāḷi Search Styles
+ */
+
+.pali-search-container {
+  position: relative;
+  max-width: 600px;
+  margin: 30px auto;
+  z-index: 100;
+}
+
+.pali-search-wrapper {
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+
+.pali-search-input {
+  width: 100%;
+  padding: 12px 45px 12px 40px;
+  font-size: 16px;
+  border: 2px solid #ddd;
+  border-radius: 8px;
+  outline: none;
+  transition: all 0.3s ease;
+  font-family: inherit;
+}
+
+.pali-search-input:focus {
+  border-color: #007bff;
+  box-shadow: 0 0 0 3px rgba(0, 123, 255, 0.1);
+}
+
+.pali-search-input::placeholder {
+  color: #999;
+}
+
+.pali-search-icon {
+  position: absolute;
+  left: 12px;
+  color: #666;
+  pointer-events: none;
+  font-size: 18px;
+}
+
+.pali-search-clear {
+  position: absolute;
+  right: 12px;
+  background: transparent;
+  border: none;
+  color: #999;
+  cursor: pointer;
+  padding: 5px;
+  font-size: 18px;
+  display: none;
+  transition: color 0.2s ease;
+}
+
+.pali-search-clear:hover {
+  color: #333;
+}
+
+.pali-search-results {
+  position: absolute;
+  top: calc(100% + 5px);
+  left: 0;
+  right: 0;
+  background: white;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  max-height: 500px;
+  overflow-y: auto;
+  display: none;
+  z-index: 1000;
+}
+
+.pali-search-results.visible {
+  display: block;
+}
+
+.pali-search-results::-webkit-scrollbar {
+  width: 8px;
+}
+
+.pali-search-results::-webkit-scrollbar-track {
+  background: #f1f1f1;
+  border-radius: 8px;
+}
+
+.pali-search-results::-webkit-scrollbar-thumb {
+  background: #ccc;
+  border-radius: 8px;
+}
+
+.pali-search-results::-webkit-scrollbar-thumb:hover {
+  background: #999;
+}
+
+.search-result-item {
+  display: block;
+  padding: 12px 16px;
+  border-bottom: 1px solid #eee;
+  text-decoration: none;
+  color: inherit;
+  transition: background-color 0.2s ease;
+}
+
+.search-result-item:last-child {
+  border-bottom: none;
+}
+
+.search-result-item:hover,
+.search-result-item.active {
+  background-color: #f8f9fa;
+}
+
+.search-result-pali {
+  font-size: 18px;
+  font-weight: 600;
+  color: #007bff;
+  margin-bottom: 4px;
+}
+
+.search-result-meaning {
+  font-size: 14px;
+  color: #333;
+  margin-bottom: 4px;
+}
+
+.search-result-en {
+  color: #666;
+  font-style: italic;
+  margin-left: 4px;
+}
+
+.search-result-section {
+  font-size: 12px;
+  color: #999;
+  margin-top: 4px;
+}
+
+.search-result-type {
+  display: inline-block;
+  padding: 2px 6px;
+  border-radius: 3px;
+  font-size: 10px;
+  font-weight: 600;
+  text-transform: uppercase;
+  margin-right: 6px;
+}
+
+.search-result-type.noun {
+  background-color: #e3f2fd;
+  color: #1976d2;
+}
+
+.search-result-type.verb {
+  background-color: #f3e5f5;
+  color: #7b1fa2;
+}
+
+.search-result-empty {
+  padding: 30px 20px;
+  text-align: center;
+  color: #666;
+}
+
+.search-result-empty p {
+  margin: 8px 0;
+}
+
+.search-tip {
+  font-size: 13px;
+  color: #999;
+}
+
+mark {
+  background-color: #fff3cd;
+  color: inherit;
+  padding: 0 2px;
+  border-radius: 2px;
+  font-weight: 600;
+}
+
+/* Responsive design */
+@media (max-width: 768px) {
+  .pali-search-container {
+    margin: 20px 10px;
+  }
+
+  .pali-search-input {
+    font-size: 16px; /* Prevent zoom on iOS */
+  }
+
+  .pali-search-results {
+    max-height: 400px;
+  }
+
+  .search-result-item {
+    padding: 10px 12px;
+  }
+
+  .search-result-pali {
+    font-size: 16px;
+  }
+
+  .search-result-meaning {
+    font-size: 13px;
+  }
+}
+
+/* Print styles - hide search */
+@media print {
+  .pali-search-container {
+    display: none !important;
+  }
+}
+
+/* Loading state */
+.pali-search-input:disabled {
+  background-color: #f5f5f5;
+  cursor: not-allowed;
+}
+
+/* Search info box */
+.pali-search-info {
+  text-align: center;
+  margin: 10px 0 30px;
+  font-size: 14px;
+  color: #666;
+}
+
+.pali-search-info kbd {
+  display: inline-block;
+  padding: 2px 6px;
+  background: #f5f5f5;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+  font-size: 12px;
+  font-family: monospace;
+}

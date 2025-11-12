@@ -35,6 +35,15 @@ sections:
     anchor: neuter-nouns-a
 ---
 
+<div class="pali-search-container">
+  <div class="pali-search-wrapper">
+    <span class="pali-search-icon">🔍</span>
+    <input type="text" class="pali-search-input" placeholder="Tìm từ vựng Pāḷi, tiếng Việt hoặc tiếng Anh..." autocomplete="off">
+    <button class="pali-search-clear" aria-label="Clear search">✕</button>
+  </div>
+  <div class="pali-search-results"></div>
+</div>
+
 <div class="content-filters">
   <button id="show-all" class="filter-btn active">Tất cả (All)</button>
   <button id="show-tables" class="filter-btn">Chỉ bảng chia (Tables Only)</button>

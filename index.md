@@ -4,6 +4,19 @@ title: Danh từ và Động từ
 permalink: /
 ---
 
+<div class="pali-search-container">
+  <div class="pali-search-wrapper">
+    <span class="pali-search-icon">🔍</span>
+    <input type="text" class="pali-search-input" placeholder="Tìm từ vựng Pāḷi, tiếng Việt hoặc tiếng Anh..." autocomplete="off">
+    <button class="pali-search-clear" aria-label="Clear search">✕</button>
+  </div>
+  <div class="pali-search-results"></div>
+</div>
+
+<div class="pali-search-info">
+  <strong>Mẹo tìm kiếm:</strong> Gõ từ Pāḷi (có hoặc không dấu), tiếng Việt, hoặc tiếng Anh • Dùng <kbd>↑</kbd> <kbd>↓</kbd> để di chuyển • <kbd>Enter</kbd> để chọn
+</div>
+
 ### Danh từ nam tính (Masculine Nouns)
 
 - [Danh từ nam tính vĩ từ 'a']({{ '/pali/masculine-nouns-a/' | relative_url }})

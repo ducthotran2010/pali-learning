@@ -2725,5 +2725,734 @@
     "section_title": "Thì Hiện Tại (Vattamānā)",
     "type": "verb",
     "url": "/pali/verbs-vattamana/"
+  },
+  {
+    "pali": "karoti",
+    "vi": "làm",
+    "en": "do",
+    "section": "all-verbs-conjugation",
+    "section_title": "Tổng hợp chia động từ",
+    "type": "verb",
+    "url": "/pali/all-verbs-conjugation/"
+  },
+  {
+    "pali": "kiṇāti",
+    "vi": "mua",
+    "en": "buy",
+    "section": "all-verbs-conjugation",
+    "section_title": "Tổng hợp chia động từ",
+    "type": "verb",
+    "url": "/pali/all-verbs-conjugation/"
+  },
+  {
+    "pali": "paṭiyādeti",
+    "vi": "chuẩn bị, sắp đặt",
+    "en": "prepare, arrange",
+    "section": "all-verbs-conjugation",
+    "section_title": "Tổng hợp chia động từ",
+    "type": "verb",
+    "url": "/pali/all-verbs-conjugation/"
+  },
+  {
+    "pali": "labhati",
+    "vi": "lấy, đạt/có được",
+    "en": "take, get/obtain",
+    "section": "all-verbs-conjugation",
+    "section_title": "Tổng hợp chia động từ",
+    "type": "verb",
+    "url": "/pali/all-verbs-conjugation/"
+  },
+  {
+    "pali": "vasati",
+    "vi": "sống, ở, cư trú",
+    "en": "live, dwell, reside",
+    "section": "all-verbs-conjugation",
+    "section_title": "Tổng hợp chia động từ",
+    "type": "verb",
+    "url": "/pali/all-verbs-conjugation/"
+  },
+  {
+    "pali": "gacchati",
+    "vi": "đi",
+    "en": "go",
+    "section": "all-verbs-conjugation",
+    "section_title": "Tổng hợp chia động từ",
+    "type": "verb",
+    "url": "/pali/all-verbs-conjugation/"
+  },
+  {
+    "pali": "āgacchati",
+    "vi": "trở về, đến",
+    "en": "return, come",
+    "section": "all-verbs-conjugation",
+    "section_title": "Tổng hợp chia động từ",
+    "type": "verb",
+    "url": "/pali/all-verbs-conjugation/"
+  },
+  {
+    "pali": "apagacchati",
+    "vi": "đi mất",
+    "en": "go away",
+    "section": "all-verbs-conjugation",
+    "section_title": "Tổng hợp chia động từ",
+    "type": "verb",
+    "url": "/pali/all-verbs-conjugation/"
+  },
+  {
+    "pali": "tiṭṭhati",
+    "vi": "đứng",
+    "en": "stand",
+    "section": "all-verbs-conjugation",
+    "section_title": "Tổng hợp chia động từ",
+    "type": "verb",
+    "url": "/pali/all-verbs-conjugation/"
+  },
+  {
+    "pali": "uṭṭhahati",
+    "vi": "thức dậy, đứng lên",
+    "en": "wake up, get up",
+    "section": "all-verbs-conjugation",
+    "section_title": "Tổng hợp chia động từ",
+    "type": "verb",
+    "url": "/pali/all-verbs-conjugation/"
+  },
+  {
+    "pali": "uttiṭṭhati",
+    "vi": "đứng lên, thức dậy",
+    "en": "stand up, wake up",
+    "section": "all-verbs-conjugation",
+    "section_title": "Tổng hợp chia động từ",
+    "type": "verb",
+    "url": "/pali/all-verbs-conjugation/"
+  },
+  {
+    "pali": "uṭṭhāti",
+    "vi": "mọc, nổi lên, xuất hiện",
+    "en": "rise, emerge, appear",
+    "section": "all-verbs-conjugation",
+    "section_title": "Tổng hợp chia động từ",
+    "type": "verb",
+    "url": "/pali/all-verbs-conjugation/"
+  },
+  {
+    "pali": "nisīdati",
+    "vi": "ngồi",
+    "en": "sit",
+    "section": "all-verbs-conjugation",
+    "section_title": "Tổng hợp chia động từ",
+    "type": "verb",
+    "url": "/pali/all-verbs-conjugation/"
+  },
+  {
+    "pali": "sayati",
+    "vi": "ngủ, nằm",
+    "en": "sleep, lie down",
+    "section": "all-verbs-conjugation",
+    "section_title": "Tổng hợp chia động từ",
+    "type": "verb",
+    "url": "/pali/all-verbs-conjugation/"
+  },
+  {
+    "pali": "rudati/rodati",
+    "vi": "khóc, than khóc",
+    "en": "cry, weep",
+    "section": "all-verbs-conjugation",
+    "section_title": "Tổng hợp chia động từ",
+    "type": "verb",
+    "url": "/pali/all-verbs-conjugation/"
+  },
+  {
+    "pali": "vadati",
+    "vi": "nói",
+    "en": "speak",
+    "section": "all-verbs-conjugation",
+    "section_title": "Tổng hợp chia động từ",
+    "type": "verb",
+    "url": "/pali/all-verbs-conjugation/"
+  },
+  {
+    "pali": "ghāyati",
+    "vi": "ngửi",
+    "en": "smell",
+    "section": "all-verbs-conjugation",
+    "section_title": "Tổng hợp chia động từ",
+    "type": "verb",
+    "url": "/pali/all-verbs-conjugation/"
+  },
+  {
+    "pali": "sāyati",
+    "vi": "nếm",
+    "en": "taste",
+    "section": "all-verbs-conjugation",
+    "section_title": "Tổng hợp chia động từ",
+    "type": "verb",
+    "url": "/pali/all-verbs-conjugation/"
+  },
+  {
+    "pali": "pacati",
+    "vi": "nấu",
+    "en": "cook",
+    "section": "all-verbs-conjugation",
+    "section_title": "Tổng hợp chia động từ",
+    "type": "verb",
+    "url": "/pali/all-verbs-conjugation/"
+  },
+  {
+    "pali": "carati",
+    "vi": "đi bộ/dạo",
+    "en": "walk/wander",
+    "section": "all-verbs-conjugation",
+    "section_title": "Tổng hợp chia động từ",
+    "type": "verb",
+    "url": "/pali/all-verbs-conjugation/"
+  },
+  {
+    "pali": "dhāvati",
+    "vi": "chạy",
+    "en": "run",
+    "section": "all-verbs-conjugation",
+    "section_title": "Tổng hợp chia động từ",
+    "type": "verb",
+    "url": "/pali/all-verbs-conjugation/"
+  },
+  {
+    "pali": "passati",
+    "vi": "thấy, nhìn thấy",
+    "en": "see",
+    "section": "all-verbs-conjugation",
+    "section_title": "Tổng hợp chia động từ",
+    "type": "verb",
+    "url": "/pali/all-verbs-conjugation/"
+  },
+  {
+    "pali": "bhuñjati",
+    "vi": "ăn",
+    "en": "eat",
+    "section": "all-verbs-conjugation",
+    "section_title": "Tổng hợp chia động từ",
+    "type": "verb",
+    "url": "/pali/all-verbs-conjugation/"
+  },
+  {
+    "pali": "bhāsati",
+    "vi": "nói, kể, gọi",
+    "en": "speak, tell, call",
+    "section": "all-verbs-conjugation",
+    "section_title": "Tổng hợp chia động từ",
+    "type": "verb",
+    "url": "/pali/all-verbs-conjugation/"
+  },
+  {
+    "pali": "harati",
+    "vi": "lấy/mang đi",
+    "en": "take/carry away",
+    "section": "all-verbs-conjugation",
+    "section_title": "Tổng hợp chia động từ",
+    "type": "verb",
+    "url": "/pali/all-verbs-conjugation/"
+  },
+  {
+    "pali": "paharati",
+    "vi": "đánh, tấn công, gõ",
+    "en": "hit, attack, knock",
+    "section": "all-verbs-conjugation",
+    "section_title": "Tổng hợp chia động từ",
+    "type": "verb",
+    "url": "/pali/all-verbs-conjugation/"
+  },
+  {
+    "pali": "viharati",
+    "vi": "sống, cư trú",
+    "en": "live, dwell",
+    "section": "all-verbs-conjugation",
+    "section_title": "Tổng hợp chia động từ",
+    "type": "verb",
+    "url": "/pali/all-verbs-conjugation/"
+  },
+  {
+    "pali": "āharati",
+    "vi": "đem/mang lại",
+    "en": "bring",
+    "section": "all-verbs-conjugation",
+    "section_title": "Tổng hợp chia động từ",
+    "type": "verb",
+    "url": "/pali/all-verbs-conjugation/"
+  },
+  {
+    "pali": "kīḷati",
+    "vi": "chơi đùa, vui chơi",
+    "en": "play, sport",
+    "section": "all-verbs-conjugation",
+    "section_title": "Tổng hợp chia động từ",
+    "type": "verb",
+    "url": "/pali/all-verbs-conjugation/"
+  },
+  {
+    "pali": "hanati",
+    "vi": "giết, sát hại",
+    "en": "kill",
+    "section": "all-verbs-conjugation",
+    "section_title": "Tổng hợp chia động từ",
+    "type": "verb",
+    "url": "/pali/all-verbs-conjugation/"
+  },
+  {
+    "pali": "āruhati",
+    "vi": "đi/leo lên",
+    "en": "climb up, ascend",
+    "section": "all-verbs-conjugation",
+    "section_title": "Tổng hợp chia động từ",
+    "type": "verb",
+    "url": "/pali/all-verbs-conjugation/"
+  },
+  {
+    "pali": "oruhati",
+    "vi": "đi/leo xuống",
+    "en": "climb down, descend",
+    "section": "all-verbs-conjugation",
+    "section_title": "Tổng hợp chia động từ",
+    "type": "verb",
+    "url": "/pali/all-verbs-conjugation/"
+  },
+  {
+    "pali": "hasati",
+    "vi": "cười",
+    "en": "laugh",
+    "section": "all-verbs-conjugation",
+    "section_title": "Tổng hợp chia động từ",
+    "type": "verb",
+    "url": "/pali/all-verbs-conjugation/"
+  },
+  {
+    "pali": "yācati",
+    "vi": "yêu cầu, xin",
+    "en": "request, ask",
+    "section": "all-verbs-conjugation",
+    "section_title": "Tổng hợp chia động từ",
+    "type": "verb",
+    "url": "/pali/all-verbs-conjugation/"
+  },
+  {
+    "pali": "udeti/udayati",
+    "vi": "mọc, nổi lên, xuất hiện",
+    "en": "rise, emerge, appear",
+    "section": "all-verbs-conjugation",
+    "section_title": "Tổng hợp chia động từ",
+    "type": "verb",
+    "url": "/pali/all-verbs-conjugation/"
+  },
+  {
+    "pali": "bhavati",
+    "vi": "là, thì, trở thành",
+    "en": "be, become",
+    "section": "all-verbs-conjugation",
+    "section_title": "Tổng hợp chia động từ",
+    "type": "verb",
+    "url": "/pali/all-verbs-conjugation/"
+  },
+  {
+    "pali": "hoti",
+    "vi": "là",
+    "en": "be",
+    "section": "all-verbs-conjugation",
+    "section_title": "Tổng hợp chia động từ",
+    "type": "verb",
+    "url": "/pali/all-verbs-conjugation/"
+  },
+  {
+    "pali": "kasati",
+    "vi": "cày, búa",
+    "en": "plough",
+    "section": "all-verbs-conjugation",
+    "section_title": "Tổng hợp chia động từ",
+    "type": "verb",
+    "url": "/pali/all-verbs-conjugation/"
+  },
+  {
+    "pali": "eti",
+    "vi": "đến",
+    "en": "come",
+    "section": "all-verbs-conjugation",
+    "section_title": "Tổng hợp chia động từ",
+    "type": "verb",
+    "url": "/pali/all-verbs-conjugation/"
+  },
+  {
+    "pali": "vapati",
+    "vi": "gieo",
+    "en": "sow",
+    "section": "all-verbs-conjugation",
+    "section_title": "Tổng hợp chia động từ",
+    "type": "verb",
+    "url": "/pali/all-verbs-conjugation/"
+  },
+  {
+    "pali": "phusati",
+    "vi": "đụng, tiếp xúc",
+    "en": "touch",
+    "section": "all-verbs-conjugation",
+    "section_title": "Tổng hợp chia động từ",
+    "type": "verb",
+    "url": "/pali/all-verbs-conjugation/"
+  },
+  {
+    "pali": "patati",
+    "vi": "té, ngã",
+    "en": "fall",
+    "section": "all-verbs-conjugation",
+    "section_title": "Tổng hợp chia động từ",
+    "type": "verb",
+    "url": "/pali/all-verbs-conjugation/"
+  },
+  {
+    "pali": "nidahati",
+    "vi": "chôn giấu",
+    "en": "ích lũy",
+    "section": "all-verbs-conjugation",
+    "section_title": "Tổng hợp chia động từ",
+    "type": "verb",
+    "url": "/pali/all-verbs-conjugation/"
+  },
+  {
+    "pali": "vidahati",
+    "vi": "sắp đặt",
+    "en": "thực hiện",
+    "section": "all-verbs-conjugation",
+    "section_title": "Tổng hợp chia động từ",
+    "type": "verb",
+    "url": "/pali/all-verbs-conjugation/"
+  },
+  {
+    "pali": "daṃsati/ḍaṃsati",
+    "vi": "cắn, đốt, chích",
+    "en": "bite",
+    "section": "all-verbs-conjugation",
+    "section_title": "Tổng hợp chia động từ",
+    "type": "verb",
+    "url": "/pali/all-verbs-conjugation/"
+  },
+  {
+    "pali": "khaṇati/khanati",
+    "vi": "đào",
+    "en": "dig",
+    "section": "all-verbs-conjugation",
+    "section_title": "Tổng hợp chia động từ",
+    "type": "verb",
+    "url": "/pali/all-verbs-conjugation/"
+  },
+  {
+    "pali": "chindati",
+    "vi": "cắt, chặt, đốn",
+    "en": "cut",
+    "section": "all-verbs-conjugation",
+    "section_title": "Tổng hợp chia động từ",
+    "type": "verb",
+    "url": "/pali/all-verbs-conjugation/"
+  },
+  {
+    "pali": "likhati",
+    "vi": "viết",
+    "en": "cào",
+    "section": "all-verbs-conjugation",
+    "section_title": "Tổng hợp chia động từ",
+    "type": "verb",
+    "url": "/pali/all-verbs-conjugation/"
+  },
+  {
+    "pali": "āhiṇḍati",
+    "vi": "đi quanh, đi lang thang",
+    "en": "wander about",
+    "section": "all-verbs-conjugation",
+    "section_title": "Tổng hợp chia động từ",
+    "type": "verb",
+    "url": "/pali/all-verbs-conjugation/"
+  },
+  {
+    "pali": "vandati",
+    "vi": "cúi mình, kính lễ",
+    "en": "pay respect",
+    "section": "all-verbs-conjugation",
+    "section_title": "Tổng hợp chia động từ",
+    "type": "verb",
+    "url": "/pali/all-verbs-conjugation/"
+  },
+  {
+    "pali": "dadāti",
+    "vi": "cho, biếu, cúng dường",
+    "en": "give",
+    "section": "all-verbs-conjugation",
+    "section_title": "Tổng hợp chia động từ",
+    "type": "verb",
+    "url": "/pali/all-verbs-conjugation/"
+  },
+  {
+    "pali": "deti",
+    "vi": "cho, biếu, cúng dường",
+    "en": "give",
+    "section": "all-verbs-conjugation",
+    "section_title": "Tổng hợp chia động từ",
+    "type": "verb",
+    "url": "/pali/all-verbs-conjugation/"
+  },
+  {
+    "pali": "khādati",
+    "vi": "ăn đồ cứng",
+    "en": "eat hard food",
+    "section": "all-verbs-conjugation",
+    "section_title": "Tổng hợp chia động từ",
+    "type": "verb",
+    "url": "/pali/all-verbs-conjugation/"
+  },
+  {
+    "pali": "pāleti/pālayati",
+    "vi": "bảo vệ, gìn giữ, hộ trì",
+    "en": "protect",
+    "section": "all-verbs-conjugation",
+    "section_title": "Tổng hợp chia động từ",
+    "type": "verb",
+    "url": "/pali/all-verbs-conjugation/"
+  },
+  {
+    "pali": "oloketi/olokayati",
+    "vi": "nhìn ngắm, quan/khảo sát",
+    "en": "observe, survey",
+    "section": "all-verbs-conjugation",
+    "section_title": "Tổng hợp chia động từ",
+    "type": "verb",
+    "url": "/pali/all-verbs-conjugation/"
+  },
+  {
+    "pali": "coreti/corayati",
+    "vi": "trộm, cướp",
+    "en": "steal, rob",
+    "section": "all-verbs-conjugation",
+    "section_title": "Tổng hợp chia động từ",
+    "type": "verb",
+    "url": "/pali/all-verbs-conjugation/"
+  },
+  {
+    "pali": "cinteti/cintayati",
+    "vi": "suy nghĩ, nhận biết",
+    "en": "think, consider",
+    "section": "all-verbs-conjugation",
+    "section_title": "Tổng hợp chia động từ",
+    "type": "verb",
+    "url": "/pali/all-verbs-conjugation/"
+  },
+  {
+    "pali": "pūjeti/pūjayati",
+    "vi": "tôn kính, cung dường",
+    "en": "honor, worship",
+    "section": "all-verbs-conjugation",
+    "section_title": "Tổng hợp chia động từ",
+    "type": "verb",
+    "url": "/pali/all-verbs-conjugation/"
+  },
+  {
+    "pali": "uḍḍeti/uḍḍayati",
+    "vi": "bay lên",
+    "en": "fly up",
+    "section": "all-verbs-conjugation",
+    "section_title": "Tổng hợp chia động từ",
+    "type": "verb",
+    "url": "/pali/all-verbs-conjugation/"
+  },
+  {
+    "pali": "pīḷeti/pīḷayati",
+    "vi": "thúc ép, đàn áp",
+    "en": "oppress, torment",
+    "section": "all-verbs-conjugation",
+    "section_title": "Tổng hợp chia động từ",
+    "type": "verb",
+    "url": "/pali/all-verbs-conjugation/"
+  },
+  {
+    "pali": "chādeti/chādayati",
+    "vi": "bao/che phủ, phủ lên",
+    "en": "cover",
+    "section": "all-verbs-conjugation",
+    "section_title": "Tổng hợp chia động từ",
+    "type": "verb",
+    "url": "/pali/all-verbs-conjugation/"
+  },
+  {
+    "pali": "āneti/ānayati",
+    "vi": "dẫn/hướng về",
+    "en": "guide towards",
+    "section": "all-verbs-conjugation",
+    "section_title": "Tổng hợp chia động từ",
+    "type": "verb",
+    "url": "/pali/all-verbs-conjugation/"
+  },
+  {
+    "pali": "neti/nayati",
+    "vi": "dẫn/hướng đi",
+    "en": "lead, guide",
+    "section": "all-verbs-conjugation",
+    "section_title": "Tổng hợp chia động từ",
+    "type": "verb",
+    "url": "/pali/all-verbs-conjugation/"
+  },
+  {
+    "pali": "katheti/kathayati",
+    "vi": "nói",
+    "en": "speak",
+    "section": "all-verbs-conjugation",
+    "section_title": "Tổng hợp chia động từ",
+    "type": "verb",
+    "url": "/pali/all-verbs-conjugation/"
+  },
+  {
+    "pali": "vikkinati",
+    "vi": "bán",
+    "en": "sell",
+    "section": "all-verbs-conjugation",
+    "section_title": "Tổng hợp chia động từ",
+    "type": "verb",
+    "url": "/pali/all-verbs-conjugation/"
+  },
+  {
+    "pali": "jānāti",
+    "vi": "hiểu biết",
+    "en": "know",
+    "section": "all-verbs-conjugation",
+    "section_title": "Tổng hợp chia động từ",
+    "type": "verb",
+    "url": "/pali/all-verbs-conjugation/"
+  },
+  {
+    "pali": "suṇāti",
+    "vi": "nghe, lắng nghe",
+    "en": "hear, listen",
+    "section": "all-verbs-conjugation",
+    "section_title": "Tổng hợp chia động từ",
+    "type": "verb",
+    "url": "/pali/all-verbs-conjugation/"
+  },
+  {
+    "pali": "jinati",
+    "vi": "chiến thắng, thắng phục",
+    "en": "conquer, defeat",
+    "section": "all-verbs-conjugation",
+    "section_title": "Tổng hợp chia động từ",
+    "type": "verb",
+    "url": "/pali/all-verbs-conjugation/"
+  },
+  {
+    "pali": "jayati",
+    "vi": "chiến thắng, thắng phục",
+    "en": "conquer, defeat",
+    "section": "all-verbs-conjugation",
+    "section_title": "Tổng hợp chia động từ",
+    "type": "verb",
+    "url": "/pali/all-verbs-conjugation/"
+  },
+  {
+    "pali": "jeti",
+    "vi": "chiến thắng, thắng phục",
+    "en": "conquer, defeat",
+    "section": "all-verbs-conjugation",
+    "section_title": "Tổng hợp chia động từ",
+    "type": "verb",
+    "url": "/pali/all-verbs-conjugation/"
+  },
+  {
+    "pali": "mināti",
+    "vi": "đo lường, giới hạn, ước lường",
+    "en": "measure, limit, estimate",
+    "section": "all-verbs-conjugation",
+    "section_title": "Tổng hợp chia động từ",
+    "type": "verb",
+    "url": "/pali/all-verbs-conjugation/"
+  },
+  {
+    "pali": "gaṇhāti",
+    "vi": "lấy, cầm lấy",
+    "en": "take, grasp",
+    "section": "all-verbs-conjugation",
+    "section_title": "Tổng hợp chia động từ",
+    "type": "verb",
+    "url": "/pali/all-verbs-conjugation/"
+  },
+  {
+    "pali": "uggaṇhāti",
+    "vi": "học, tiếp thu",
+    "en": "learn, grasp",
+    "section": "all-verbs-conjugation",
+    "section_title": "Tổng hợp chia động từ",
+    "type": "verb",
+    "url": "/pali/all-verbs-conjugation/"
+  },
+  {
+    "pali": "ocināti",
+    "vi": "gom, thu thập, tập hợp",
+    "en": "collect, gather",
+    "section": "all-verbs-conjugation",
+    "section_title": "Tổng hợp chia động từ",
+    "type": "verb",
+    "url": "/pali/all-verbs-conjugation/"
+  },
+  {
+    "pali": "pāpuṇāti",
+    "vi": "đến gần, đạt/đắc được",
+    "en": "reach, attain",
+    "section": "all-verbs-conjugation",
+    "section_title": "Tổng hợp chia động từ",
+    "type": "verb",
+    "url": "/pali/all-verbs-conjugation/"
+  },
+  {
+    "pali": "pappoti",
+    "vi": "đến gần, đạt/đắc được",
+    "en": "reach, attain",
+    "section": "all-verbs-conjugation",
+    "section_title": "Tổng hợp chia động từ",
+    "type": "verb",
+    "url": "/pali/all-verbs-conjugation/"
+  },
+  {
+    "pali": "cināti",
+    "vi": "gom góp/dồng, tích lũy",
+    "en": "accumulate, collect",
+    "section": "all-verbs-conjugation",
+    "section_title": "Tổng hợp chia động từ",
+    "type": "verb",
+    "url": "/pali/all-verbs-conjugation/"
+  },
+  {
+    "pali": "tanoti",
+    "vi": "nới/mở rộng, lan tỏa",
+    "en": "extend, spread",
+    "section": "all-verbs-conjugation",
+    "section_title": "Tổng hợp chia động từ",
+    "type": "verb",
+    "url": "/pali/all-verbs-conjugation/"
+  },
+  {
+    "pali": "pivati, pibati, pipati, pāti",
+    "vi": "uống",
+    "en": "drink",
+    "section": "all-verbs-conjugation",
+    "section_title": "Tổng hợp chia động từ",
+    "type": "verb",
+    "url": "/pali/all-verbs-conjugation/"
+  },
+  {
+    "pali": "rakkhati",
+    "vi": "bảo vệ, giữ gìn",
+    "en": "protect, guard",
+    "section": "all-verbs-conjugation",
+    "section_title": "Tổng hợp chia động từ",
+    "type": "verb",
+    "url": "/pali/all-verbs-conjugation/"
+  },
+  {
+    "pali": "pakkhipati",
+    "vi": "đặt/để vào",
+    "en": "put in, insert",
+    "section": "all-verbs-conjugation",
+    "section_title": "Tổng hợp chia động từ",
+    "type": "verb",
+    "url": "/pali/all-verbs-conjugation/"
   }
 ]

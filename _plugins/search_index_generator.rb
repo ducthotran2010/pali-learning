@@ -98,6 +98,38 @@ module Jekyll
         sections_updated << section_name if entries.any?
       end
 
+      # Extract verbs from all-verbs-conjugation.md
+      conjugation_file = File.join(site.source, '_languages/pali/all-verbs-conjugation.md')
+      if File.exist?(conjugation_file)
+        content = File.read(conjugation_file)
+
+        # Pattern: $\textbf{VERB}$ (VIETNAMESE; ENGLISH) = ...
+        entries = content.scan(/\$\\textbf\{([^}]+)\}\$\s+\(([^)]+)\)\s+=/)
+
+        entries.each do |verb, meanings|
+          # Parse meanings (Vietnamese; English)
+          vietnamese = ''
+          english = ''
+
+          if meanings =~ /([^;]+);?\s*([^;]*)/
+            vietnamese = $1.strip
+            english = $2.strip
+          end
+
+          search_data << {
+            pali: verb.strip,
+            vi: vietnamese,
+            en: english,
+            section: 'all-verbs-conjugation',
+            section_title: 'Tổng hợp chia động từ',
+            type: 'verb',
+            url: "#{site.baseurl}/pali/all-verbs-conjugation/"
+          }
+        end
+
+        sections_updated << 'all-verbs-conjugation' if entries.any?
+      end
+
       # Load old data for comparison
       old_data = load_old_data(site)
 

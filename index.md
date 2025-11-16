@@ -4,21 +4,6 @@ title: Danh từ và Động từ
 permalink: /
 ---
 
-<div class="pali-search-container">
-  <div class="pali-search-wrapper">
-    <span class="pali-search-icon">🔍</span>
-    <div class="pali-search-lang-filter">
-      <button class="lang-btn active" data-lang="all">All</button>
-      <button class="lang-btn" data-lang="pali">PL</button>
-      <button class="lang-btn" data-lang="vi">VI</button>
-      <button class="lang-btn" data-lang="en">EN</button>
-    </div>
-    <input type="text" class="pali-search-input" placeholder="Tìm từ vựng Pāḷi, tiếng Việt hoặc tiếng Anh..." autocomplete="off">
-    <button class="pali-search-clear" aria-label="Clear search">✕</button>
-  </div>
-  <div class="pali-search-results"></div>
-</div>
-
 <div class="pali-search-info">
   <strong>Mẹo tìm kiếm:</strong> Gõ từ Pāḷi (có hoặc không dấu), tiếng Việt, hoặc tiếng Anh • Dùng <kbd>↑</kbd> <kbd>↓</kbd> để di chuyển • <kbd>Enter</kbd> để chọn
 </div>

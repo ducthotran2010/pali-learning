@@ -221,7 +221,8 @@
 
     results.forEach(result => {
       const resultEl = document.createElement('a');
-      resultEl.href = result.url;
+      // Add hash to URL for jump-to-word functionality
+      resultEl.href = result.url + '#vocab-' + encodeURIComponent(result.pali);
       resultEl.className = 'search-result-item';
 
       const paliEl = document.createElement('div');
@@ -260,7 +261,8 @@
    * Initialize search UI
    */
   function initSearchUI() {
-    const searchContainers = document.querySelectorAll('.pali-search-container');
+    // Find both page containers and header container
+    const searchContainers = document.querySelectorAll('.pali-search-container, .header-search-container');
 
     searchContainers.forEach(container => {
       const input = container.querySelector('.pali-search-input');
@@ -435,10 +437,58 @@
       });
   }
 
+  /**
+   * Highlight vocabulary word from URL hash
+   */
+  function highlightVocabWord() {
+    const hash = window.location.hash;
+
+    // Check if hash starts with #vocab-
+    if (!hash || !hash.startsWith('#vocab-')) {
+      return;
+    }
+
+    // Extract word from hash
+    const word = decodeURIComponent(hash.substring(7)); // Remove '#vocab-'
+
+    // Find all <strong> tags in vocab sections
+    const vocabSections = document.querySelectorAll('.vocab-content');
+    let targetElement = null;
+
+    vocabSections.forEach(section => {
+      const strongTags = section.querySelectorAll('strong');
+      strongTags.forEach(strong => {
+        // Check if this is the word we're looking for
+        if (strong.textContent.trim() === word) {
+          targetElement = strong;
+        }
+      });
+    });
+
+    // If found, scroll to it and highlight
+    if (targetElement) {
+      // Scroll to the element
+      targetElement.scrollIntoView({ behavior: 'smooth', block: 'center' });
+
+      // Add highlight class
+      targetElement.classList.add('vocab-highlight');
+
+      // Optional: also highlight the parent <li> for better visibility
+      const parentLi = targetElement.closest('li');
+      if (parentLi) {
+        parentLi.classList.add('vocab-highlight-row');
+      }
+    }
+  }
+
   // Initialize when DOM is ready
   if (document.readyState === 'loading') {
-    document.addEventListener('DOMContentLoaded', loadSearchData);
+    document.addEventListener('DOMContentLoaded', () => {
+      loadSearchData();
+      highlightVocabWord();
+    });
   } else {
     loadSearchData();
+    highlightVocabWord();
   }
 })();

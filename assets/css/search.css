@@ -2,6 +2,48 @@
  * Pāḷi Search Styles
  */
 
+/* Header Search Container */
+.header-search-container {
+  position: relative;
+  flex: 1;
+  max-width: 500px;
+  margin: 0 20px;
+  z-index: 1001;
+}
+
+/* Ensure header doesn't hide search results */
+.site-header {
+  position: relative;
+  z-index: 1000;
+}
+
+.site-header .wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  position: relative;
+}
+
+.site-header .site-title {
+  flex-shrink: 0;
+}
+
+.site-header .site-nav {
+  flex-shrink: 0;
+}
+
+/* Header search results need higher z-index and specific positioning */
+.header-search-container .pali-search-results {
+  position: absolute;
+  top: calc(100% + 5px);
+  left: 0;
+  right: 0;
+  z-index: 2000;
+  min-width: 400px;
+}
+
+/* Page Search Container (for standalone search on pages) */
 .pali-search-container {
   position: relative;
   max-width: 600px;
@@ -46,7 +88,8 @@
   gap: 4px;
   padding-right: 8px;
   border-right: 1px solid #ddd;
-  z-index: 1;
+  z-index: 10;
+  pointer-events: all;
 }
 
 .lang-btn {
@@ -60,6 +103,9 @@
   transition: all 0.2s;
   color: #666;
   white-space: nowrap;
+  pointer-events: all;
+  position: relative;
+  z-index: 10;
 }
 
 .lang-btn:hover {
@@ -214,6 +260,28 @@ mark {
 
 /* Responsive design */
 @media (max-width: 768px) {
+  /* Header search on mobile - stack vertically */
+  .site-header .wrapper {
+    flex-direction: column;
+    align-items: stretch;
+  }
+
+  .header-search-container {
+    max-width: 100%;
+    margin: 15px 0;
+    order: 2; /* Place search below title and nav */
+  }
+
+  .site-header .site-title {
+    order: 1;
+    margin-bottom: 10px;
+  }
+
+  .site-header .site-nav {
+    order: 3;
+  }
+
+  /* Page search containers */
   .pali-search-container {
     margin: 20px 10px;
   }
@@ -279,4 +347,18 @@ mark {
   border-radius: 3px;
   font-size: 12px;
   font-family: monospace;
+}
+
+/* Vocabulary word highlighting */
+.vocab-highlight {
+  background-color: #fff3cd;
+  padding: 2px 4px;
+  border-radius: 3px;
+  transition: background-color 0.3s ease;
+}
+
+.vocab-highlight-row {
+  background-color: #fffbee;
+  border-radius: 4px;
+  transition: background-color 0.3s ease;
 }
